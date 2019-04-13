@@ -1,0 +1,401 @@
+Office,country,state,address,email,fax,phone
+GM-CS Asia-Field-India-Hyderabad,IN,null,"# 152, Hotel Taj Deccan, Banjara Hills,Hyderabad - 500 034. INDIA",office.hyderabad@trade.gov,+91 40 2330 0130,+91 40 2330 5000
+GM-CS MEA-Field-Africa-SouthAfrica-Johannesburg,ZA,null,"1 Sandton Drive,Sandhurst, 2196,Johannesburg",office.johannesburg@trade.gov,27 11 884 0253,27 11 290 3120
+GM-CS USA-Field-MidWest-KansasCity,US,IL,"1000 Walnut, Suite 500,Kansas City, MO 64106",regina.heise@trade.gov,816-471-7839,816-421-1932
+GM-CS WH-Field-Canada-Calgary,CA,null,"10th floor,615 Macleod Trail SE,Calgary AB   T2G 4T8",Office.Calgary@trade.gov,403-266-4743,403-265-2116
+GM-CS WH-Field-Canada-Montreal,CA,null,"1155 St-Alexander St.,Montreal, Quebec H3B 3Z1",Office.Montreal@trade.gov,514-398-0711,"514-398-9695, ext. 2220"
+GM-CS USA-Field-NorthEast-Buffalo,US,NY,"130 S. Elmwood Ave., Suite 530,Buffalo, NY 14202,http://www.export.gov/newyork/bflorochsyr",rosanna.masucci@trade.gov,716-551-5290,716-551-4191
+GM-CS MEA-Field-Africa-AddisAbaba,ET,null,"14 Entoto Rd,Addis Ababa",Office.Ethiopia@Trade.gov,(251-11) 124-2406,(251-11) 130-6683
+GM-CS USA-Field-NorthEast-NewYork,US,NY,"163 W. 125th St., Suite 901,New York, NY 10027,http://www.export.gov/newyork/harlem/",Office.Harlem@trade.gov,212-860-6203,212-860-6200
+GM-CS Asia-Field-India-Chennai,IN,null,"220 Anna Salai,Chennai 600006",office.chennai@trade.gov,+91 44 2857 4212,+91 44 2857 4477
+GM-CS USA-Field-Southwest-Austin,US,TX,"221 E. 11th St., 4th Floor,Austin, TX 78701,www.export.gov/texas/austin/",Karen.Parker@trade.gov,512-916-5940,512-916-5939
+GM-CS USA-Field-PacificNorth-Anchorage,US,AK,"222 West 7th Avenue, Suite 524,Anchorage, AK 99513,http://www.export.gov/alaska/",Debra.Franklin@trade.gov,,907-271-6237
+GM-CS USA-Field-PacificSouth-NewportBeach,US,CA,"2302 Martin Court, Suite 315,Irvine, CA 92612,http://export.gov/california/irvine",OfficeIrvine@trade.gov,949-660-1338,949-660-1688
+GM-CS USA-Field-MidWest-Chicago,US,IL,"233 North Michigan Avenue,Suite 260,Chicago, IL 60601,http://export.gov/illinois",Office.Chicago@trade.gov,312-353-8120,312-353-8040
+GM-CS USA-Field-NorthEast-NewYork,US,NY,"290 Broadway, Suite 1312,New York, NY 10007,http://www.export.gov/newyork/",Office.NewYork@trade.gov,212-809-2687,212-809-2675
+GM-CS Asia-Field-Pakistan-Karachi,PK,null,"3, 4, 5, New TPX Area, Mai Kolachi Road,,Karachi, Pakistan.",Malik.Attiq@trade.gov,92-21-3561-2413,92-21-3527-5017
+GM-CS EUR-Field-EURASIA-Kiev,UA,null,"4,Igor Sikorsky Street (formerly Tankova St.),Kyiv, Ukraine 04112",office.kiev@trade.gov,380 (44) 521-5727,380 (44) 521-5244
+GM-CS USA-Field-NorthEast-Rochester,US,NY,"400 Andrews St., Suite 300,Rochester, NY  14604,http://www.export.gov/newyork/bflorochsyr",Timothy.McCall@trade.gov,585-423-7570,585-399-7065
+GM-CS USA-Field-MidAtlantic-Richmond,US,VA,"400 N. 8th St., Suite 1028,Richmond, VA  23219,http://www.export.gov/virginia",joshua.kaplan@trade.gov,,804-461-9324
+GM-CS Asia-Field-Taiwan-Kaohsiung,TW,null,"5 FL. No. 88, Chenggong 2nd Road, Kaohsiung 80661, Taiwan",Office.Kaohsiung@trade.gov,88673380551,88673355006 Ext. 6120
+GM-CS China-Field-China-Shenyang,CN,null,"52 Shi Si Wei Road, Heping District,Shenyang, 110003",Taylor.Moore@trade.gov,011-86-24-2322-2206,011-86-24-2322-1198
+GM-CS Asia-Field-India-Ahmedabad,IN,null,"5th Floor, Radisson Blu Hotel, Panchvati Cross Road,Off. C G Road, Ambawadi - 380 006",office.ahmedabad@trade.gov,+91 79 2656 0763,+91 79 2656 5210
+GM-CS China-Field-China-Guangzhou,CN,null,"American Consulate General Guangzhou,US Commercial Service,NO.43 Hua Jiu Road, Zhujian New Town,Guangzhou, 510623,China",office.guangzhou@trade.gov,0086-20-3814-5310,0086-20-3814-5000
+GM-CS China-Field-HongKong,HK,null,"American Consulate General,U.S. Commercial Service,26 Garden Road, Central,Hong Kong",office.hongkong@trade.gov,011-852-2845-9800,011-852-2521-1467
+GM-CS EUR-Field-GEAUS-Germany-Frankfurt,DE,null,"American Consulate General,U.S. Commercial Service,Giessener Str. 30,60435 Frankfurt,Germany,http://www.export.gov/germany/",Office.Frankfurt@trade.gov,+49 69 7535 3171,+49 69 7535 3120
+GM-CS EUR-Field-GEAUS-Germany-Munich,DE,null,"American Consulate General,U.S. Commercial Service,Koeniginstr. 5,80539 Munich",office.munich@trade.gov,+49 89 28 52 61,+49 89 2888 754
+GM-CS MEA-Field-Gulf-UAE-Dubai,AE,null,"American Consulate General,U.S. Commercial Service,Umm Hurair 1, Bur Dubai,Dubai, U.A.E.",Office.Dubai@trade.gov,+971-4-354-7090,+971-4-309-4000
+GM-CS EUR-Field-Italy-Milan,IT,null,"American Consulate General,U.S. Commercial Service,Via Principe Amedeo 2,20121 Milan,Italy",Office.Milan@trade.gov,011-39-02-659-6561,011-39-02-626-8851
+GM-CS MEA-Field-Africa-Lagos,NG,null,"American Consulate General,US Commercial Service,2 Walter Carrington Crescent, Victoria Island,Lagos, Nigeria",Office.Lagos@trade.gov,N/A,011-234-1 460-3581
+GM-CS Asia-Field-ANZ-Australia-Perth,AU,null,"American Consulate General,US Commercial Service,Level 4, 16 St. Georges Terrace,Perth WA 6000 Australia,http://www.export.gov/australia",office.australia@trade.gov,011-61-8-9231-9444,011-61-8-6144-5149
+GM-CS Asia-Field-ANZ-Australia-Sydney,AU,null,"American Consulate General,US Commercial Service,Level 59, MLC Centre,19-29 Martin Place,Sydney NSW 2000",office.australia@trade.gov,,011-61-2-9373-9202
+GM-CS EUR-Field-GEAUS-Germany-Dusseldorf,DE,null,"American Consulate General,US Commercial Service,Willi-Becker-Allee 10,40227 Dusseldorf",Office.Dusseldorf@trade.gov,+49 211 737 767 67,+49 211 737 767 0
+GM-CS Asia-Field-Pakistan-Lahore,PK,null,"American Consulate,50 Shahrah-E-Bin Badees,Lahore",Aftab.Qamar@trade.gov,92-42-603-4229,92-42-603-4000
+GM-CS EUR-Field-SPG-Lisbon,PT,null,"American Embassy Lisbon,U.S. Commercial Service,Avenida das Forcas Armadas,1649-044 Lisbon",Office.Lisbon@trade.gov,011-351-21-726-8914,011-351-21-770 2528 / 727 3300
+GM-CS Asia-Field-ASEAN-Rangoon,MM,null,"American Embassy Rangoon,US Commercial Service,110 University Ave,Kamayut Township 11041,Yangon, Myanmar",DesaiMS@state.gov,,95-1 536-509 x4435
+GM-CS Asia-Field-ANZ-Australia-Canberra,AU,null,"American Embassy,Attn: U.S. Commercial Service,Moonah Place,Yarralumla  ACT 2600,AUSTRALIA",Office.Australia@trade.gov,011-61-2-9221-0573,011-61-2-9373-9205
+GM-CS MEA-Field-NorthAfrica-Amman,JO,null,"American Embassy,Commercial Section,Umaween Street, Abdoun Area,P.O. Box 354,Amman 11118 Jordan",office.amman@trade.gov,011-962-6-592-0146,011-962-6-590-6632
+GM-CS Asia-Field-Pakistan-Islamabad,PK,null,"American Embassy,Diplomatic Enclave,Ramna-5,Islamabad, PAKISTAN",Steve.Knode@trade.gov,92-51-282-3981,92-51-201-4000
+GM-CS MEA-Field-Gulf-UAE-AbuDhabi,AE,null,"American Embassy,Embassies District,Plot 38, Sector W59-02,Street No 4,Abu Dhabi, UAE",Office.Abudhabi@trade.gov,971-2-414-2228,971-2-414-2304
+GM-CS EUR-Field-Benelux-TheHague,NL,null,"American Embassy,John Adams Park 1,2244 BZ Wassenaar",office.netherlands@trade.gov,N/A,+31-70-3102417
+GM-CS WH-Field-Mexico-MexicoCity,MX,null,"American Embassy,U.S. Commercial Service - Mexico City,Liverpool 31, Col. Juarez,06600 Mexico, D.F.",Office.MexicoCity@trade.gov,52-55-5080-2199,52-55-5080-2000
+GM-CS Asia-Field-Japan-Tokyo,JP,null,"American Embassy,U.S. Commercial Service,1-10-5 Akasaka, Minato-ku,Tokyo 107-8420",Office.Tokyo@trade.gov,81-3-3224-5064,81-3-3224-5060
+GM-CS EUR-Field-RSCO-Bucharest,BG,null,"American Embassy,U.S. Commercial Service,16, Kozyak St.,1408 Sofia,Bulgaria",Office.Sofia@trade.gov,359-2-939-5735,359-2-939-5784
+GM-CS Asia-Field-ASEAN-Singapore,SG,null,"American Embassy,U.S. Commercial Service,27 Napier Road,Singapore,258508",office.singapore@trade.gov,65-6476-9080,65-6476-9037
+GM-CS EUR-Field-GEAUS-Germany-Berlin,DE,null,"American Embassy,U.S. Commercial Service,Clayallee 170,14191 Berlin",Office.Berlin@trade.gov,+49 30 8305 1949,+49 30 8305 1940
+GM-CS EMEA-Field-Nordics-Oslo,NO,null,"American Embassy,U.S. Commercial Service,Morgedalsvegen 36,0244 Oslo,Norway",office.oslo@trade.gov,n/a,(47) 21 30 88 66
+GM-CS EUR-Field-Italy-Rome,IT,null,"American Embassy,U.S. Commercial Service,Via Vittorio Veneto 119/A,00187 Rome,Italy",Office.Rome@trade.gov,011-39-06-4674-2113,011-39-06-4674-2382
+GM-CS EUR-Field-UK-Dublin,IE,null,"American Embassy,US Commercial Service,42 Elgin Road, Ballsbridge,,Dublin 4",office.dublin@trade.gov,353-1-667-4754,353-1-237-5850
+GM-CS WH-Field-Canada-Ottawa,CA,null,"American Embassy,US Commercial Service,490 Sussex Drive,Ottawa, Ontario K1N 1G8",Office.Ottawa@trade.gov,613/238-5999,613/688-5217
+GM-CS MEA-Field-NorthAfrica-Cairo,EG,null,"American Embassy,US Commercial Service,8 Kamal El Din Salah St.,Garden City, Cairo,EGYPT",Office.Cairo@trade.gov,011-20-2-795-8368,011-20-2-797-2340
+GM-CS EUR-Field-EURASIA-Russia-Moscow,RU,null,"American Embassy,US Commercial Service,Bolshoy Deviatinsky Pereulok, 8,Moscow, 121099",office.Moscow@trade.gov,7-495-728-5585,7-495-728-5580
+GM-CS Asia-Field-ASEAN-Bangkok,TH,null,"American Embassy,US Commercial Service,GPF Witthayu, Tower A, Suite 302,93/1 Wireless Road,,Pathumwan, Bangkok 10330",Office.Bangkok@trade.gov,66-2-255-2915,66-2-205-5090
+GM-CS EMEA-Field-Nordics-Helsinki,FI,null,"American Embassy,US Commercial Service,Itainen Puistotie 14 B,FIN-00140 Helsinki,Finland",Office.Helsinki@trade.gov,,(358) 9 616 250
+GM-CS WH-Field-ARGUR-Montevideo,UY,null,"American Embassy,US Commercial Service,Lauro Muller 1776,Montevideo 11200,Uruguay",Office.Montevideo@trade.gov,598-2 418-8581,598-21770 2322
+GM-CS EUR-Field-Benelux-Brussels,BE,null,"American Embassy,US Commercial Service,Regentlaan 27 Boulevard du Regent,1000 Brussels,Belgium",Office.Brussels@trade.gov,+32 2 512 3644,+32 2 811 4496
+GM-CS EUR-Field-Balkans-Budapest,HU,null,"American Embassy,US Commercial Service,Szabadsag ter 12.,H-1054 Budapest",Office.Budapest@trade.gov,011-36-1-475-4205,011-36-1-475-4090
+GM-CS Asia-Field-ASEAN-Jakarta,ID,null,"American Embassy,US Commercial Service,World Trade Center 6, 3rd Floor,Jl. Jendral Sudirman Kav. 29-31,Jakarta 12920",office.jakarta@trade.gov,(62-21) 526-2855,(62-21) 526-2850
+GM-CS Asia-Field-Taiwan-Taipei,TW,null,"American Institute in Taiwan,32nd Floor,333 Keelung Road Section 1,Suite 3207,Taipei 110",Office.Taipei@trade.gov,+886-2-2757-7162,+886-2-2720-1550
+GM-CS WH-Field-ANDPAN-PanamaCity,PA,null,"Antigua Base de Clayton,Edificio 783,Calle Demetrio Basilio Lakas,Panama, Rep. de Panama",John.Coronado@trade.gov,(507) 317-5573,(507) 317-5000
+GM-CS EUR-Field-Turkey-Ankara,TR,null,"ASO Building,193 Ataturk Bulvari,06600 Kavaklidere,Ankara Turkey",Office.Ankara@trade.gov,(90) 312 428-8760,(90) 312 455-5555
+GM-CS USA-Field-Southern-Atlanta,US,GA,"Atlanta U.S. Export Assistance Center,230 Peachtree Street, Suite 1725,Atlanta, GA  30303,http://www.export.gov/georgia/",Office.Atlanta@trade.gov,404-730-4819,404-730-2704
+GM-CS WH-Field-Brazil-BeloHorizonte,BR,null,"Av. Contorno, 4520 - 2nd floor,Funcionarios,30110-028 Belo Horizonte (MG),Brazil",Office.BeloHorizonte@trade.gov,+55 31 3338-4007,+55 31 3338-4000
+GM-CS WH-Field-Brazil-Rio,BR,null,"Av. Presidente Wilson, 147 / 4º Andar,Rio De Janeiro  RJ  20030-020",Office.riodejaneiro@trade.gov,55-21-3823-2424,55-21-3823-2000
+GM-CS USA-Field-MidAtlantic-Baltimore,US,MD,"Baltimore U.S. Export Assistance Center,300 West Pratt St., Suite 300,Baltimore, MD  21201,http://www.export.gov/maryland/",office.baltimore@trade.gov,410-962-4529,410-962-4539
+GM-CS USA-Field-Southern-Birmingham,US,AL,"Birmingham U.S. Export Assistance Center,950 22nd Street North, Suite 773,Birmingham, AL  35203-5309,http://www.export.gov/alabama/",Robert.Stackpole@trade.gov,205-731-0076,205-731-1331
+GM-CS USA-Field-PacificNorth-Boise,US,ID,"Boise U.S. Export Assistance Center,700 W. State St., 2nd Floor,Boise, ID 83720,http://www.export.gov/idaho",Amy.Benson@trade.gov,208-334-2631,208-364-7791
+GM-CS USA-Field-NorthEast-Boston,US,MA,"Boston U.S. Export Assistance Center,JFK Federal Building,55 New Sudbury St., Suite 1826A,Boston, MA 02203,http://www.export.gov/Massachusetts/",Office.Boston@trade.gov,617-565-4313,617-565-4301
+GM-CS USA-Field-MidAtlantic-Charlotte,US,NC,"Charlotte U.S. Export Assistance Center,521 E. Morehead St., Suite 435,Charlotte, NC 28202,http://www.export.gov/northcarolina/",greg.sizemore@trade.gov,704-332-2681,704-333-4886
+GM-CS USA-Field-GreatLakes-Cincinnati,US,OH,"Cincinnati U.S. Export Assistance Center,36 E. 7th St., Suite 2025,Cincinnati, OH 45202,http://www.export.gov/ohio/southernohio/",Marcia.Brandstadt@trade.gov,513-684-3200,513-684-2947
+GM-CS Asia-Field-ANZ-NewZealand-Auckland,NZ,null,"Citibank Building,23 Customs Street East,Level 3,Auckland",office.auckland@trade.gov,011-649-302-3156,011-649-309-8079
+GM-CS USA-Field-GreatLakes-Columbus,US,OH,"Columbus U.S. Export Assistance Center,401 N. Front St., #200,Columbus, OH 43215,http://export.gov/ohio/centralohio/index.asp",roberta.ford@trade.gov,614-365-9598,614-365-9510
+GM-CS MEA-Field-NorthAfrica-Beirut,LB,null,"Commercial Section,American Embassy,PO Box 70-480,Awkar, Lebanon",Naaman.Tayyar@trade.gov,961-4-541-788,961-4-544-860
+GM-CS EUR-Field-RSCO-Bucharest,RO,null,"Commercial Section,U.S. Embassy,4-6, Dr. Liviu Librescu Blvd.,,District 1, Bucharest 015118,,Romania",office.bucharest@trade.gov,(40-21) 316-0690,by pouch using the above Mailing address.
+GM-CS EMEA-Field-Nordics-Copenhagen,DK,null,"Commercial Service Copenhagen,Dag Hammarskjölds Alle 24,DK-2100 Copenhagen O",office.copenhagen@trade.gov,n/a,011-45-33417315
+GM-CS USA-Field-GreatLakes-Louisville,US,KY,"CS Louisville,601 W. Broadway, Room 634B,Louisville, KY 40202,http://www.export.gov/kentucky/",Peggy.Pauley@trade.gov,502-582-6573,502-582-5066
+GM-CS USA-Field-GreatLakes-Detroit,US,MI,"Detroit U.S. Export Assistance Center,211 W. Fort Street, Suite 1310, Detroit,MI 48226,http://www.export.gov/michigan",Sara.Coulter@trade.gov,313-226-3073,313-226-3006
+GM-CS USA-Field-GreatLakes-Pontiac,US,MI,"East Michigan U.S. Export Assistance Center,1200 N Telegraph Rd,Administrative Annex 1, Building 47 West,Pontiac, MI 48341,http://www.export.gov/michigan/",Richard.Corson@Trade.gov,248-975-9606,248-975-9600
+GM-CS USA-Field-Southwest-ElPaso,US,TX,"El Paso World Trade Center,9570 Pan American Drive,El Paso, TX 79927,https://export.gov/texas/elpaso",Robert.Queen@trade.gov,915-858-8827,915-929-6971
+GM-CS WH-Field-CAFTA-Tegucigalpa,HN,null,"Embajada Americana,U.S. Commercial Service,Avenida La Paz,Tegucigalpa M.D.C., Honduras",Office.Tegucigalpa@trade.gov,,011-504-2236-9320
+GM-CS WH-Field-ANDPAN-Bogota,CO,null,"Embajada de los Estados Unidos de America,Oficina Comercial,Carrera 45 No 24B-27,Bogota, D.C. COLOMBIA",Office.Bogota@trade.gov,011 571 275 4575 / 275 4575,011 571 275 2519
+GM-CS MEA-Field-Israel-TelAviv,IL,null,"Embassy of the United States of America,71 Hayarkon Street,Tel Aviv 6343229",office.telaviv@trade.gov,+972-3-519-8530,+972-3 -519-8500
+GM-CS EUR-Field-GEAUS-Bratislava,SK,null,"Embassy of the United States of America,U.S. Commercial Service,Hviezdoslavovo nam.5,811 02 Bratislava",Office.Bratislava@trade.gov,+421 2 5922 3345,+421 2 5922 3222
+GM-CS EMEA-Field-Nordics-Stockholm,SE,null,"Embassy of the United States,US Commercial Service,Dag Hammarskjölds Väg 31,SE -115 89, Stockholm,SWEDEN",Stockholm.office@trade.gov,N/A,46-8-783-5346
+GM-CS USA-Field-Southern-FortLauderdale,US,FL,"Fort Lauderdale U.S. Export Assistance Center,1850 Eller Drive, Suite 401,Fort Lauderdale, FL 33316,http://www.export.gov/florida/",Office.Miami@trade.gov,954-356-6644,954-356-6640
+GM-CS USA-Field-MidAtlantic-Greensboro,US,NC,"Greensboro U.S. Export Assistance Center,330 S. Greene Street, Suite 303,Greensboro, NC 27401,http://www.export.gov/northcarolina",Stephanie.Heckel@trade.gov,336-333-5158,336-333-5345
+GM-CS USA-Field-MidAtlantic-Greenville,US,SC,"Greenville U.S. Export Assistance Center,Buck Mickel Center at Greenville Technical College,216 S. Pleasantburg Dr., Suite 243,Greenville, SC 29607,http://www.export.gov/southcarolina/",Shannon.Christenbury@trade.gov,864-250-6729,864-250-8429
+GM-CS MEA-Field-Israel-Jerusalem,IL,null,"Ground Floor,19 Keren Hayesod Street,91008  JERUSALEM",office.jerusalem@trade.gov,(972-2) 623-5132,(972-2) 625-5201
+GM-CS USA-Field-PacificSouth-Honolulu,US,HI,"Hawaii U.S. Export Assistance Center,Foreign Trade Zone #9,521 Ala Moana Blvd., Rm. 214,Honolulu, HI 96813,http://www.export.gov/hawaii/",John.Holman@trade.gov,808-522-8045,808-522-8040
+GM-CS USA-Field-Southwest-Houston,US,TX,"Houston U.S. Export Assistance Center,1919 Smith St., Suite 1026,Houston, TX  77002,http://www.export.gov/texas/houston/",Office.Houston@trade.gov,281-228-5663,281-228-5650
+GM-CS USA-Field-GreatLakes-Indianapolis,US,IN,"Indianapolis U.S. Export Assistance Center,46 E. Ohio Street,Suite 508,Indianapolis, IN 46204,http://www.export.gov/indiana",Mark.Cooper@trade.gov,317-221-0120,317-226-6153
+GM-CS Asia-Field-India-Bangalore,IN,null,"J.W. Marriott Hotel, 9th Floor,,24/1, Vittal Mallya Road,,Ashok Nagar, Bengaluru 560001, India",office.bengaluru@trade.gov,+91 80 2227 6405,+91 80 2227 6401
+GM-CS USA-Field-Southern-Jacksonville,US,FL,"Jacksonville U.S. Export Assistance Center,3 Independent Drive,Jacksonville, FL 32202,http://www.export.gov/florida",Jorge.Arce@trade.gov,904-232-1271,904-232-1270
+GM-CS MEA-Field-Africa-Maputo,MZ,null,"JAT Complex 3, 3rd Floor,Maputo",Tamarind.Murrietta@trade.gov,,258 21 35 54 18
+GM-CS USA-Field-GreatLakes-Knoxville,US,TN,"Knoxville U.S. Export Assistance Center,17 Market Square, #201,Knoxville, TN  37902-1405,http://www.export.gov/tennessee/knoxville",Robert.Leach@trade.gov,865-545-4435,865-545-4637
+GM-CS USA-Field-Southern-LittleRock,US,AR,"Little Rock U.S. Export Assistance Center,425 West Capitol Ave., Suite 425,Little Rock, AR 72201,http://www.export.gov/arkansas/",Office.LittleRock@trade.gov,501-324-7380,501-324-5794
+GM-CS USA-Field-GreatLakes-Memphis,US,TN,"Memphis U.S. Export Assistance Center,22 North Front Street, Suite 200,Memphis, TN  38103,http://export.gov/tennessee/memphis",Office.Memphis@trade.gov,901-543-3510,901-544-0930
+GM-CS USA-Field-NorthEast-Middletown,US,CT,"Middletown U.S. Export Assistance Center,213 Court St., Suite 903,Middletown, CT  06457-3382,http://www.export.gov/connecticut/",Anne.Evans@trade.gov,860-638-6970,860-638-6950
+GM-CS USA-Field-MidWest-Minneapolis,US,MN,"Minneapolis U.S. Export Assistance Center,330 2nd Avenue South, Suite 410,Minneapolis, MN 55401,http://www.export.gov/minnesota/",Ryan.Kanne@trade.gov,612-348-1650,612-348-1638
+GM-CS USA-Field-Southern-Jackson,US,MS,"Mississippi U.S. Export Assistance Center,1230 Raymond Road, Box 600,Jackson, MS  39204,http://export.gov/mississippi/",Carol.Moore@trade.gov,601-373-0959,601-373-0773
+GM-CS USA-Field-NorthEast-Montpelier,US,VT,"Montpelier U.S. Export Assistance Center,PO Box 605,87 State Street, Room 205,Montpelier, VT  05601,http://www.export.gov/vermont",Susan.Murray@trade.gov,802-828-3258,802-828-4508
+GM-CS USA-Field-MidWest-Fargo,US,ND,"NDSU Agribusiness and Applied Economics Department at Barry Hall,811 Second Avenue North,Suite 436,Fargo, ND 58102,http://www.export.gov/northdakota",heather.ranck@trade.gov,701-540-0262,701-239-5080
+GM-CS China-Field-China-Chengdu,CN,null,"No. 4,  Lingshiguan Road,Section 4, Renmin Nan Lu,Chengdu, China 610041",Office.Chengdu@trade.gov,+86 28 85589221,+86 28 85583992
+GM-CS USA-Field-NorthEast-Newark,US,NJ,"Northern New Jersey U.S. Export Assistance Center,20 Washington Place, Suite 615,Newark, NJ 07102,http://www.export.gov/newjersey",Office.Newark@trade.gov,973-645-4783,973-645-4682
+GM-CS USA-Field-PacificNorth-Oakland,US,CA,"Oakland U.S. Export Assistance Center,1301 Clay St., Suite 630N,Oakland, CA 94612,http://export.gov/california/oakland",Rod.Hirsch@trade.gov,510-273-7352,510-273-7350
+GM-CS USA-Field-Southern-OklahomaCity,US,OK,"Oklahoma City U.S. Export Assistance Center,301 NW 63rd St., Suite 420,Oklahoma City, OK 73116,http://www.export.gov/oklahoma",office.oklahomacity@trade.gov,405-608-4211,405-608-5302
+GM-CS USA-Field-Southern-Orlando,US,FL,"Orlando U.S. Export Assistance Center,3201 East Colonial Drive, Suite A-20,Orlando, FL 32803,http://www.export.gov/florida",office.orlando@trade.gov,407-420-4425,"407-420-4848, ext. 260"
+GM-CS USA-Field-MidWest-Peoria,US,IL,"Peoria U.S. Export Assistance Center,922 N. Glenwood Ave., Jobst Hall, Rm. 141,Peoria, IL 61606,http://export.gov/illinois/",Elizabeth.Ahern@trade.gov,309-671-7818,309-671-7815
+GM-CS USA-Field-MidAtlantic-Philadelphia,US,PA,"Philadelphia U.S. Export Assistance Center,One Penn Center,1617 John F. Kennedy Blvd., Suite 1580,Philadelphia, PA 19103,http://www.export.gov/pennsylvania/philadelphia/",Office.Philadelphia@trade.gov,215-597-6123,215-597-6101
+GM-CS USA-Field-Southwest-Phoenix,US,AZ,"Phoenix U.S. Export Assistance Center,2828 N Central Ave, Suite 800,Phoenix, AZ 85004,http://www.export.gov/arizona",Office.Phoenix@trade.gov,602-745-7210,602-640-2513
+GM-CS MEA-Field-SaudiArabia-Dhahran,SA,null,"Prince Faisal bin Fahad St., between Aramco HQ and the old Dhahran Airport,Dhahran,P.O. Box 38955, Dhahran (Doha) 31942",Office.Dhahran@trade.gov,+966-(0)13-330-2190,+966-(0)13-330-3200
+GM-CS USA-Field-NorthEast-Providence,US,RI,"Providence U.S. Export Assistance Center,315 Iron Horse Way, Suite 101,Providence, RI  02908,http://www.export.gov/rhodeisland/",keith.yatsuhashi@trade.gov,401-528-5067,401-528-5104
+GM-CS USA-Field-MidAtlantic-Raleigh,US,NC,"Raleigh US Export Assistance Center,10900 World Trade Blvd., Suite 110,Raleigh, NC 27617,http://www.export.gov/northcarolina/",greg.sizemore@trade.gov,919-281-2754,919-281-2750
+GM-CS USA-Field-PacificSouth-Reno,US,NV,"Reno U.S. Export Assistance Center,c/o Reno Sparks Chamber of Commerce,449 S. Virginia, 2nd Floor,Reno, NV 89501,http://www.export.gov/nevada/reno",andrew.edlefsen@trade.gov,775-784-5343,775-784-5342
+GM-CS USA-Field-MidWest-Rockford,US,IL,"Rockford Illinois U.S. Export Assistance Center,327 South Church Street, Suite 1600,Rockford, IL  61101,http://export.gov/illinois/",Office.Chicago@trade.gov,312-353-8120,312-353-8040
+GM-CS WH-Field-Brazil-Recife,BR,null,"Rua Gonçalves Maia, 163 - Boa Vista,50070-060 - Recife – PE",Office.Recife@trade.gov,55-81-3231-1906,55-81-3416-3075
+GM-CS WH-Field-Brazil-SaoPaulo,BR,null,"Rua Henri Dunant, 700,Chacara Santo Antonio,04709-110 - Sao Paulo - SP,Brazil",Office.SaoPaulo@trade.gov,55/11/3250-5399,55/11/3250-5172
+GM-CS MEA-Field-Africa-Luanda,AO,null,"Rua Houari Boumedienne #32,Luanda",everett.wakai@trade.gov,N/A,244-222-641-000
+GM-CS USA-Field-PacificNorth-Sacramento,US,CA,"Sacramento U.S. Export Assistance Center,1410 Ethan Way, Ste. 131 N,Sacramento, CA 95825,http://www.export.gov/california/sacramento/",George.Tastard@trade.gov,916-566-7123,916-566-7170
+GM-CS USA-Field-PacificNorth-SaltLakeCity,US,UT,"Salt Lake City U.S. Export Assistance Center,350 S. Main St., Suite 462,Salt Lake City, UT 84101,http://www.export.gov/utah/",office.saltlakecity@trade.gov,801-524-3072,801-524-3070
+GM-CS USA-Field-Southwest-SanAntonio,US,TX,"San Antonio U.S. Export Assistance Center,615 E. Houston Street, Suite 207,San Antonio, TX 78205,http://www.export.gov/texas/sanantonio/",Daniel.Rodriguez@Trade.gov,210-472-4019,210-472-4020
+GM-CS USA-Field-PacificSouth-SanDiego,US,CA,"San Diego U.S. Export Assistance Center,9449 Balboa Avenue, Suite 111,San Diego, CA  92123,http://www.buyusa.gov/sandiego/",Matt.Andersen@trade.gov,858-467-7043,858-467-7032
+GM-CS USA-Field-PacificNorth-SanFrancisco,US,CA,"San Francisco U.S. Commercial Service,75 Hawthorne St.,2nd Floor, Suite 2500,San Francisco, CA 94105,http://export.gov/california/sanfrancisco",office.sanfrancisco@trade.gov,415-705-2299,415-705-2300
+GM-CS USA-Field-PacificNorth-SanJose,US,CA,"San Jose (Silicon Valley) U.S. Export Assistance Center,55 South Market St., Suite 1040,San Jose, CA  95113,http://export.gov/california/sanjose",Joanne.Vliet@trade.gov,408-535-2758,408-535-2757
+GM-CS USA-Field-Southern-Savannah,US,GA,"Savannah U.S. Export Assistance Center,111 E. Liberty St., Suite 202,Savannah, GA 31401,http://www.export.gov/georgia/",Todd.Gerken@trade.gov,912-652-4675,912-652-4204
+GM-CS USA-Field-PacificNorth-Seattle,US,WA,"Seattle U.S. Export Assistance Center,2001 6th Avenue, Suite 2610,Seattle, WA 98121,http://export.gov/Washington/seattle/",Office.Seattle@trade.gov,206-553-7253,206-553-5615
+GM-CS WH-Field-Brazil-Brasilia,BR,null,"SES - Av. das Nações, Quadra 801, Lote 03,Brasilia - DF,70403-900",Office.brasilia@trade.gov,55-61-3312-7656,55-61-3312-7418
+GM-CS China-Field-China-Shanghai,CN,null,"Shanghai Center,Suite 631, East Tower,1376 Nanjing Xi Lu,Shanghai, China  200040",office.shanghai@trade.gov,011-86-21-6279-7639,011-86-21-6279-7630
+GM-CS USA-Field-MidWest-SiouxFalls,US,SD,"Sioux Falls U.S. Export Assistance Center,2001 S. Summit Ave,Augustana College / Madsen Center,Sioux Falls, SD 57197,http://www.export.gov/southdakota",Cinnamon.King@trade.gov,605-330-4266,605-330-4265
+GM-CS USA-Field-PacificNorth-Spokane,US,WA,"Spokane U.S. Export Assistance Center,Greater Spokane Incorporated,801 W. Riverside Ave.,Spokane, WA 99201,http://www.export.gov/washington/spokane",office.spokane@trade.gov,503-326-6351,509-344-9398
+GM-CS MEA-Field-SaudiArabia-Riyadh,SA,null,"Street Address (not Mailing Address):,American Embassy,Abdullah al-Sahmi St.,Diplomatic Quarter,Riyadh 11693, Saudi Arabia,Mailing Address (Local):,American Embassy,P.O. Box 94309,Riyadh 11693, Saudi Arabia",Office.Riyadh@trade.gov,+966-(0)11-488-3237,+966-(0)11-488-3800
+GM-CS USA-Field-Southwest-NewOrleans,US,LA,"Suite 419, U.S. Custom House,423 Canal Street,New Orleans, LA  70130,http://www.export.gov/louisiana",office.neworleans@trade.gov,504-589-2337,504-589-6546
+GM-CS USA-Field-Southern-Clearwater,US,FL,"Tampa Bay U.S. Export Assistance Center,13805 58th Street North, Suite 1-200,Clearwater, FL 33760,http://export.gov/florida/",Sandra.Campbell@trade.gov,,727-893-3738
+GM-CS Asia-Field-India-NewDelhi,IN,null,"The American Center,24 Kasturba Gandhi Marg,New Delhi 110 001",office.newdelhi@trade.gov,+91 11 2331 5172,+91 11 2347 2000
+GM-CS Asia-Field-India-Kolkata,IN,null,"The American Center,38-A, Jawaharlal Nehru Road,,Kolkata (Calcutta) 700 071",office.calcutta@trade.gov,+91 33 3984 6353,+91 33 3984 6402
+GM-CS EUR-Field-PoCz-Prague,CZ,null,"Trziste 15,118 01 Praha 1,Czech Republic",Office.Prague@trade.gov,420-257-02-2810,420-257-022-434
+GM-CS MEA-Field-Africa-Nairobi,KE,null,"U.N. Avenue Gigiri,P.O. Box 606 Village Market,00621 Nairobi",Office.Nairobi@trade.gov,254-20-363-6722,254-20-3636000 ext. 6424
+GM-CS China-Field-China-Beijing,CN,null,"U.S. Commercial Service - Beijing,No. 55 An Jia Lou Road,,Chaoyang District,Beijing 100600, China",Office.Beijing@trade.gov,(86-10) 8531-3701,(86-10) 8531-3000
+GM-CS China-Field-China-Wuhan,CN,null,"U.S. Commercial Service - Wuhan,47F New World International Trade Tower I,NO. 568, Jianshe Avenue,Hankou, Wuhan, 430022, China",Jing.Wang@trade.gov,86-27-8555-7761,86-27-8555-7791
+GM-CS USA-Field-Southwest-Denver,US,CO,"U.S. Commercial Service Denver,999 18th Street, Suite 725 North Tower,Denver, CO 80202,http://www.export.gov/colorado/",Paul.Bergman@trade.gov,303-844-5651,303-844-6623
+GM-CS EUR-Field-Turkey-Istanbul,TR,null,"U.S. Commercial Service Istanbul,Istinye Mahallesi,Kaplicalar Mevkii No. 2,Istinye Istanbul,Turkey TR-34460",Office.Istanbul@trade.gov,(90-212) 335-9103,(90-212) 335-9040
+GM-CS USA-Field-PacificSouth-Fresno,US,CA,"U.S. Commercial Service, Fresno,801 R. Street, Suite 201,Fresno, CA 93721,http://export.gov/california/fresno",glen.roberts@trade.gov,,559 348-9859
+GM-CS USA-Field-GreatLakes-GrandRapids,US,MI,"U.S. Commercial Service, U.S. Department of Commerce,50 Front Ave. SW, Suite 1119,Grand Rapids, MI 49504,http://www.export.gov/michigan",Kendra.Kuo@trade.gov,616-458-3872,616-458-3564
+GM-CS USA-Field-MidAtlantic-Columbia,US,SC,"U.S. Commercial Service,1301 Gervais Str., Suite 1100,Columbia, SC  29208,http://www.export.gov/southcarolina/",Dorette.Coetsee@trade.gov,,803-255-2626
+GM-CS WH-Field-Canada-Toronto,CA,null,"U.S. Commercial Service,480 University Avenue, Suite 602,Toronto, Ontario,CANADA  M5G 1V2,Canada Mailing Address: 360 University Avenue,Toronto, Ontario, Canada M5G 1S4",Office.Toronto@trade.gov,(416) 595-5419,(416) 595-5412
+GM-CS MEA-Field-SaudiArabia-Jeddah,SA,null,"U.S. Commercial Service,American Consulate General,Palestine Rd., Ruwais,P. O. Box 149,Jeddah 21411, Saudi Arabia",Office.Jeddah@trade.gov,+966-(0)12-664-4148,+966-(0)12-667-0080
+GM-CS Asia-Field-ANZ-NewZealand-Wellington,NZ,null,"U.S. Commercial Service,American Embassy,29 Fitzherbert Terrace,Thorndon, Wellington",Office.Wellington@trade.gov,011-644-473-0770,011-644-462-6002
+GM-CS EUR-Field-PoCz-Warsaw,PL,null,"U.S. Commercial Service,American Embassy,IPC Business Center,ul. Koszykowa 54, 4th Floor,00-675 Warsaw",office.warsaw@trade.gov,48 22 621 6327,48 22 625 4374
+GM-CS EUR-Field-Balkans-Zagreb,HR,null,"U.S. Commercial Service,American Embassy,Thomasa Jeffersona 2,10010 Zagreb, Croatia",office.zagreb@trade.gov,011-385-1-661-2446,011-385-1-661-2224
+GM-CS EUR-Field-Turkey-Izmir,TR,null,"U.S. Commercial Service,Ataturk Caddesi, 126,Kat:5,35210 Pasaport,Izmir",Office.Izmir@trade.gov,90-232-489-0267,90-232-441-2446
+GM-CS Asia-Field-ASEAN-Manila,PH,null,"U.S. Commercial Service,Embassy of the United States of America,1201 Roxas Boulevard,Manila 0930, Philippines",businessphilippines@trade.gov,011-632-521-0416,011-632-301-4249
+GM-CS EUR-Field-SPG-Madrid,ES,null,"U.S. Commercial Service,Embassy of the United States of America,Serrano, 75,28006 Madrid,SPAIN",office.madrid@trade.gov,+34-91-563-0859,+34-91-564-8976
+GM-CS USA-Field-MidAtlantic-Pittsburgh,US,PA,"U.S. Commercial Service,William S. Moorhead Federal Building,1000 Liberty Avenue, Suite 807,Pittsburgh, PA 15222",Lyn.Doverspike@trade.gov,412-644-2803,412-644-2800
+GM-CS WH-Field-Mexico-Guadalajara,MX,null,"U.S. Commercial Service,World Trade Center, Torre Pacifico piso 4,Mariano Otero No. 1249,Col. Rinconada del Bosque,44530 Guadalajara, JAL,Mexico",Office.Guadalajara@trade.gov,52-33-3615-7665,52-33-3615-1140
+GM-CS EUR-Field-EURASIA-Russia-Almaty,KZ,null,"U.S. Consulate General - Almaty,U.S. Commercial Service,41 Kazibek bi St,050010, Almaty, Kazakhstan",office.almaty@trade.gov,7 (727) 250-0777,"7 (727) 727-250-7612, ext 6490"
+GM-CS MEA-Field-Africa-SouthAfrica-CapeTown,ZA,null,"U.S. Consulate General Cape Town,2 Reddam Avenue, West Lake,Cape Town, South Africa 7945",office.capetown@trade.gov,(27-21) 702-7402,(27-21) 702-7300
+GM-CS WH-Field-Mexico-Monterrey,MX,null,"U.S. Consulate General Monterrey,U.S. Commercial Service,Prolongacion Avenida Alfonso Reyes #150,Col. Valle Poniente,66196 Santa Catarina, Nuevo Leon, Mexico",eric.olson@trade.gov,,(52-81) 8047-3450
+GM-CS Asia-Field-ASEAN-Vietnam-HCMC,VN,null,"U.S. Consulate General,U.S. Commercial Service,Diamond Plaza, 8F,34 Le Duan Street, District 1,Ho Chi Minh City,Vietnam",Office.HoChiMinhCity@trade.gov,+84-28-3520-4679 / 81,+84-28-3520-4680
+GM-CS USA-Field-GreatLakes-Cleveland,US,OH,"U.S. Department of Commerce, U.S. Commercial Service,Howard M. Metzenbaum U.S. Courthouse,201 Superior Avenue East,Suite 424,Cleveland, OH 44114,http://export.gov/ohio/northernohio/index.asp",Office.Cleveland@trade.gov,216-522-2235,216-522-4750
+GM-CS EUR-Field-Balkans-Belgrade,RS,null,"U.S. Embassy Belgrade,Bul. Kneza Aleksandra Karadjordjevica 92,11040 Belgrade",suzanne.platt@trade.gov,,+381 11 706 4072
+GM-CS EUR-Field-UK-London,GB,null,"U.S. Embassy London,U.S. Commercial Service,33 Nine Elms Lane,London SW11 7US,United Kingdom",Office.London@trade.gov,,+44 20 7891 3419
+GM-CS EUR-Field-SPG-Athens,GR,null,"U.S. Embassy,U.S. Commercial Service,91 Vasilissis Sophias Avenue,GR-101 60 Athens",Office.Athens@trade.gov,+30 210 721 8660,For mailing other than from the U.S. use street address but do not/do not send packages to the att. of FSNs.
+GM-CS Asia-Field-ASEAN-Vietnam-Hanoi,VN,null,"U.S. Embassy,U.S. Commercial Service,Rose Garden Tower,170 Ngoc Khanh Street,Hanoi,Vietnam",Office.Hanoi@trade.gov,84-24-3850-5064,84-24-3850-5199
+GM-CS WH-Field-Santiago,CL,null,"U.S. Embassy/Department of Commerce,Av. Andres Bello 2800, Las Condes,Santiago, Chile 755-0006",office.santiago@trade.gov,011-56-22-330-3172,011-56-22-330-3316
+GM-CS MEA-Field-Gulf-Doha,QA,null,"United States Embassy - Commercial Section,22nd February Street,Al-Luqta,Doha,State of Qatar",ilona.shtrom@trade.gov,974-4488-4163,974-4496-6000
+GM-CS USA-Field-MidWest-DesMoines,US,IA,"US Commercial Service Iowa,Federal Building, Room 749,210 Walnut Street, Des Moines, IA 50309,http://export.gov/iowa",Patricia.Cook@trade.gov,515-284-4232,515-284-4590
+GM-CS Asia-Field-India-Mumbai,IN,null,"US Commercial Service,American Consulate General,C-49, G-Block, Bandra Kurla Complex (BKC),Bandra (E), Mumbai - 400 051.",office.mumbai@trade.gov,+91 22 2672 4400,+91 22 2672 4000
+GM-CS USA-Field-MidAtlantic-Wheeling,US,WV,"Wheeling U.S. Export Assistance Center,Wheeling Jesuit University,NTTC Building, Room 134,316 Washington Ave,Wheeling, WV 26003,http://www.export.gov/westvirginia/",Diego.Gattesco@trade.gov,304-243-5494,304-243-5493
+GM-CS USA-Field-MidWest-Wichita,US,KS,"Wichita U.S. Export Assistance Center,300 W Douglas Ave., Suite 850, Wichita, KS 67202,http://www.export.gov/kansas/",Andrew.Anderson@trade.gov,316-462-5506,316-263-4067
+EC ADCVDI,,,,,,
+EC ADCVDII,,,,,,
+EC ADCVDIII,,,,,,
+EC ADCVDIV,,,,,,
+EC ADCVDV,,,,,,
+EC ADCVDVI,,,,,,
+EC ADCVDVII,,,,,,
+EC ADCVDVIII,,,,,,
+EC ADCVD,,,,,,
+EC ADCVDTR,,,,,,
+GM-CS Advocacy-HQ,,,,,,
+IA MFG-OTM-AEROT,,,,,,
+GM-CS Advocacy-Field-African-Development-Bank,,,,,,
+GM-CS MEA-Field-NorthAfrica-Algiers,,,,,,
+OCFAO-ARD,,,,,,
+OCIO- ASD,,,,,,
+GM-CS WH-Field-ARGUR-BuenosAires,,,,,,
+GM-CS Asia-HQ-ASEAN-and-PacificBasin,,,,,,
+GM-CS Advocacy-Field-Asia-Development-Bank,,,,,,
+GM-CS Asia-HQ,,,,,,
+GM-CS Asia-Field-ANZ-Australia,,,,,,
+GM-CS EUR-Field-GEAUS-Vienna,,,,,,
+IA MFG-OTM-AUTOT,,,,,,
+GM-CS MEA-Field-Iraq-Baghdad,,,,,,
+GM-CS SelectUSA-Field-Berne,,,,,,
+GM-CS WH-Field-Brazil,,,,,,
+OCFAO-BFD,,,,,,
+GM-CS WH-Field-CAFTA,,,,,,
+GM-CS WH-Field-Canada,,,,,,
+IA TPA-OTEA-CFIUS,,,,,,
+GM-CS USA-Field-MidAtlantic-CharlestonSC,,,,,,
+GM-CS USA-Field-MidAtlantic-CharlestonWV,,,,,,
+EC CCTEC,,,,,,
+GM CS-China-Field China,,,,,,
+GM-CS China-HQ,,,,,,
+GM-CS WH-Field-CAFTA-SanJose,,,,,,
+GM-CS MEA-Field-Africa-AbidjanCotedIvoire,,,,,,
+OCIO- PD-CRM,,,,,,
+OCIO- CS,,,,,,
+EC ADCVDCU,,,,,,
+OCIO- CSO,,,,,,
+GM-CS USA-Field-Southwest-DallasFortworth,,,,,,
+GM-CS MEA-Field-Africa-DarEsSalaam,,,,,,
+IA MFG-ODAS,,,,,,
+IA SVCS-ODAS,,,,,,
+IA TCGM-ODAS,,,,,,
+IA TPA-ODAS,,,,,,
+IA SVCS-ODSI-DPT,,,,,,
+IA SVCS-ODSI-DIST,,,,,,
+GM-CS WH-Field-SantoDomingo,,,,,,
+GM-CS MEA-Field-Africa-SouthAfrica-Durban,,,,,,
+EC BEIJING,,,,,,
+EC FTZ,,,,,,
+EC OA,,,,,,
+EC OOS,,,,,,
+EC OP DASPN,,,,,,
+EC TANC,,,,,,
+GM-CS Asia-HQ-EastAsia-and-APEC,,,,,,
+GM-CS WH-Field-CAFTA-SanSalvador,,,,,,
+IA MFG-OEEI-ENEGT,,,,,,
+EC,,,,,,
+OCIO- ASD-EA,,,,,,
+IA MFG-OEEI-ENVT,,,,,,
+GM-CS MEA-Field-Iraq-Erbil,,,,,,
+GM-CS EUR-HQ-DAS-Office,,,,,,
+GM-CS EUR-HQ,,,,,,
+GM-CS EUR-HQ,,,,,,
+GM-CS Advocacy-Field-Europe-Development-Bank,,,,,,
+OCIO- FA,,,,,,
+IA SVCS-OFI-FST,,,,,,
+GM-CS EMEA-Field-SPG-Madrid,,,,,,
+GM-CS EUR-Field-GEAUS-Germany,,,,,,
+GM-CS MEA-Field-Africa-Accra,,,,,,
+"GM-CS_DDG-HQ, GM-CS_DDG-CDI",,,,,,
+GM-CS USA-Field-Southwest-Grapevine,,,,,,
+GM-CS USA-Field-GreatLakes,,,,,,
+GM-CS WH-Field-CAFTA-GuatemalaCity,,,,,,
+GM-CS USA-Field-NorthEast-Harlem,,,,,,
+IA MFG-OHIT-HT,,,,,,
+GM-CS Asia-Field-India,,,,,,
+IA,,,,,,
+IA TPA-OTNA-IC,,,,,,
+IA TPA-OTNA-IN,,,,,,
+IA MFG-OHIT-ITT,,,,,,
+GM-CS USA-Field-PacificSouth-InlandEmpire,,,,,,
+GM-CS Advocacy-Field-InterAmerican-Development-Bank,,,,,,
+IA TPA-OSIP,,,,,,
+GM-CS MEA-Field-Iraq,,,,,,
+GM-CS MEA-Field-Israel,,,,,,
+OCFAO-HC,,,,,,
+OCFAO-HC-Learning,,,,,,
+OCFAO-HC-People,,,,,,
+GM-CS EUR-Field-Italy,,,,,,
+GM-CS Asia-Field-Japan,,,,,,
+GM-CS Asia-Field-Kabul,,,,,,
+GM-CS Asia-Field-Seoul,,,,,,
+GM-CS MEA-Field-Gulf-KuwaitCity,,,,,,
+GM-CS USA-Field-PacificSouth-LasVegas,,,,,,
+GM-CS_WH-HQ-LatinAmerica-and-Caribbean,,,,,,
+GM-CS USA-Field-GreatLakes-Lexington,,,,,,
+GM-CS MEA-Field-NorthAfrica-Tripoli,,,,,,
+GM-CS USA-Field-NorthEast-LongIsland,,,,,,
+GM-CS USA-Field-PacificSouth-LosAngeles,,,,,,
+IA MFG-OTM-MT,,,,,,
+GM-CS Asia-Field-ASEAN-KaulaLumpur,,,,,,
+OCFAO-MOD,,,,,,
+IA MFG,,,,,,
+IA TPA-OTEA,,,,,,
+GM-CS MEA-HQ-DAS-Office,,,,,,
+GM-CS MEA,,,,,,
+GM-CS MEA-HQ,,,,,,
+GM-CS WH-Field-Mexico,,,,,,
+GM-CS USA-Field-Southern-Miami,,,,,,
+GM-CS USA-Field-MidAtlantic,,,,,,
+GM-CS USA-Field-MidWest,,,,,,
+GM-CS USA-Field-GreatLakes-Milwaukee,,,,,,
+GM-CS USA-Field-PacificNorth-Missoula,,,,,,
+GM-CS MEA-Field-NorthAfrica-Casablanca,,,,,,
+GM-CS USA-Field-GreatLakes-Nashville,,,,,,
+IA NTTO,,,,,,
+GM-CS USA-Field-NorthEast-NewHampshire,,,,,,
+GM-CS Asia-Field-ANZ-NewZealand,,,,,,
+GM-CS EUR-Field-Nordics,,,,,,
+GM-CS_WH-HQ-NorthAmerica,,,,,,
+GM-CS USA-Field-PacificNorth-NorthBay,,,,,,
+GM-CS USA-Field-Southwest-NorthTexas,,,,,,
+GM-CS USA-Field-NorthEast,,,,,,
+GM-CS USA-Field-MidAtlantic-NOVA,,,,,,
+OCFAO-FrontOffice,,,,,,
+GM-CS DDG-HQ-AdminServices,,,,,,
+IA OACIO,,,,,,
+GM CS MEA-HQ-Africa,,,,,,
+GM-CS MEA-Field-NorthAfrica,,,,,,
+GM CS-Asia HQ,,,,,,
+IA OAS,,,,,,
+GM-CS DDG-HQ-Budget,,,,,,
+GM-CS China-HQ-DAS-Office,,,,,,
+GM-CS China-HQ-Office-of-China-and-Mongolia,,,,,,
+IA TCGM-OCG,,,,,,
+GM-CS DDG-HQ-ODI,,,,,,
+IA SVCS-ODSI,,,,,,
+OCFAO-CFAO-and-DCFAO,,,,,,
+IA MFG-OEEI,,,,,,
+GM CS EUR-Field-EURASIA,,,,,,
+GM CS EUR-HQ-Europe,,,,,,
+GM-CS EUR-Field-Belgium-USEU,,,,,,
+IA SVCS-OFI,,,,,,
+GM-CS MEA-Field-Gulf,,,,,,
+IA MFG-OHIT,,,,,,
+GM-CS DDG-HQ-OFSHC,,,,,,
+IA TPA-OIPR,,,,,,
+IA TCGM-OM,,,,,,
+IA OPCM,,,,,,
+OUS- OPA,,,,,,
+GM-CS EUR-HQ-Russia-Ukraine-and-Eurasia,,,,,,
+IA TPA-OSIP,,,,,,
+IA TPPSP-SP,,,,,,
+GM-CS DDG-HQ-OSP,,,,,,
+IA SVCS-OSCPBS,,,,,,
+IA TCGM-OTEXA,,,,,,
+EC OfficeAS,,,,,,
+OCFAO,,,,,,
+OCIO,,,,,,
+OCIO- CIO-DCIO,,,,,,
+EC OfficeDASADCVD,,,,,,
+EC OfficeDASPN,,,,,,
+EC OfficeDAS,,,,,,
+GM-CS DG-HQ-Office,,,,,,
+OUS- OLIA,,,,,,
+GM-CS_MEA-HQ-MiddleEast,,,,,,
+GM-CS DDG-HQ-Office,,,,,,
+OUS,,,,,,
+IA TPA-OTEA,,,,,,
+IA TPA-OTNA,,,,,,
+IA TPPSP,,,,,,
+IA MFG-OTM,,,,,,
+OUS- OUS-and-DUS,,,,,,
+GM-CS USA-Field-MidWest-Omaha,,,,,,
+GM-CS USA-Field-PacificSouth-Ontario,,,,,,
+OCFAO-OrgEx,,,,,,
+GM-CS Asia-Field-Japan-OsakaKobe,,,,,,
+OCIO- PD-OP,,,,,,
+GM-CS USA-Field-PacificNorth,,,,,,
+GM-CS USA-Field-PacificSouth,,,,,,
+GM-CS Asia-Field-Pakistan,,,,,,
+GM-CS WH-Field-ANDPAN-Lima,,,,,,
+GM-CS USA-Field-NorthEast-Portland,,,,,,
+GM-CS USA-Field-PacificNorth-Portland,,,,,,
+GM-CS USA-Field-NorthEast-Portsmouth,,,,,,
+OCIO- PD-PSDP,,,,,,
+OCIO-PD,,,,,,
+OCIO- PD-PS,,,,,,
+IA SVCS-OSCPBS-PSET,,,,,,
+GM-CS EUR-Field-EURASIA-Russia,,,,,,
+GM-CS USA-Field-Southern-SanJuan,,,,,,
+GM-CS MEA-Field-SaudiArabia,,,,,,
+GM-CS SelectUSA-HQ,,,,,,
+IA SVCS,,,,,,
+GM-CS MEA-Field-Africa-SouthAfrica,,,,,,
+GM-CS Asia-HQ-SouthAsia,,,,,,
+GM-CS USA-Field-Southern,,,,,,
+GM-CS USA-Field-Southwest,,,,,,
+GM-CS USA-Field-MidWest-StLouis,,,,,,
+GM-CS EUR-Field-EURASIA-Russia-StPetersburg,,,,,,
+IA TPA-OSIP-STAN,,,,,,
+OCIO- ASD-S,,,,,,
+IA SVCS-OSCPBS-SCT,,,,,,
+OCIO- SO,,,,,,
+GM-CS Asia-Field-Taiwan,,,,,,
+GM-CS USA-Field-Southern-Tallahassee,,,,,,
+OCIO- ASD-TAS,,,,,,
+IA TCGM,,,,,,
+IA SVCS-OFI-TPFT,,,,,,
+IA TAS,,,,,,
+IA TPPSP-TMP,,,,,,
+IA TPA,,,,,,
+OUS- TPCC,,,,,,
+IA TPPSP-TSM,,,,,,
+GM-CS USA-Field-MidAtlantic-Trenton,,,,,,
+GM-CS USA-Field-Southern-Tulsa,,,,,,
+GM-CS EUR-Field-Turkey,,,,,,
+GM-CS USA-Field-Southwest-Tucson,,,,,,
+GM-CS_USA_HQ,,,,,,
+GM-CS MEA-Field-Gulf-UAE,,,,,,
+GM-CS EUR-Field-UK,,,,,,
+GM-CS USA-Field-PacificSouth-Ventura,,,,,,
+GM-CS Asia-Field-ASEAN-Vietnam,,,,,,
+GM-CS USA-Field-PacificSouth-WestLosAngeles,,,,,,
+GM-CS USA-Field-NorthEast-Westchester,,,,,,
+GM CS-WH-HQ DAS Office,,,,,,
+GM CS-WH HQ,,,,,,
+GM-CS_WH-HQ,,,,,,
+GM-CS Advocacy-Field-World-Bank,,,,,,

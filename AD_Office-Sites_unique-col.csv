@@ -1,0 +1,400 @@
+URL,Site Name,Site Title,CITY,Office,Group,Phase
+/sites/GM/MEA/Gulf/UAE/AbuDhabi,Abu-Dhabi,Abu Dhabi,Abu Dhabi,GM-CS MEA-Field-Gulf-UAE-AbuDhabi,GM-CS_MEA-Field-Gulf-UAE-AbuDhabi_AllUsers,GM-International
+/sites/EC/ADCVD/I,ADCVD-Office-I,ADCVD Office I,ADCVD Office I,EC ADCVDI,EC-ADCVDI_AllUsers,EC
+/sites/EC/ADCVD/II,ADCVD-Office-II,ADCVD Office II,ADCVD Office II,EC ADCVDII,EC-ADCVDII_AllUsers,EC
+/sites/EC/ADCVD/III,ADCVD-Office-III,ADCVD Office III,ADCVD Office III,EC ADCVDIII,EC-ADCVDIII_AllUsers,EC
+/sites/EC/ADCVD/IV,ADCVD-Office-IV,ADCVD Office IV,ADCVD Office IV,EC ADCVDIV,EC-ADCVDIV_AllUsers,EC
+/sites/EC/ADCVD/V,ADCVD-Office-V,ADCVD Office V,ADCVD Office V,EC ADCVDV,EC-ADCVDV_AllUsers,EC
+/sites/EC/ADCVD/VI,ADCVD-Office-VI,ADCVD Office VI,ADCVD Office VI,EC ADCVDVI,EC-ADCVDVI_AllUsers,EC
+/sites/EC/ADCVD/VII,ADCVD-Office-VII,ADCVD Office VII,ADCVD Office VII,EC ADCVDVII,EC-ADCVDVII_AllUsers,EC
+/sites/EC/ADCVD/VIII,ADCVD-Office-VIII,ADCVD Office VIII,ADCVD Office VIII,EC ADCVDVIII,EC-ADCVDVIII_AllUsers,EC
+/sites/EC/ADCVD,ADCVD-Operations,ADCVD Operations,ADCVD Operations,EC ADCVD,EC_ALL-ADCVD_AllUsers,EC
+/sites/EC/ADCVD/TR,ADCVD-Training-and-Professional-Development-Unit,ADCVD Training and Professional Development Unit,ADCVD Training and Professional Development Unit,EC ADCVDTR,EC-ADCVDTR_AllUsers,EC
+/sites/GM/MEA/Africa/AddisAbaba,Ethiopia,Ethiopia,Addis Ababa,GM-CS MEA-Field-Africa-AddisAbaba,GM-CS_MEA-Field-Africa-AddisAbaba_AllUsers,GM-International
+/sites/GM/Advocacy,Advocacy-Center-and-Multilateral-Development-Banks,Advocacy Center and Multilateral Development Banks,Advocacy Center and Multilateral Development Banks,GM-CS Advocacy-HQ,GM-CS_Advocacy_AllUsers,GM
+/sites/IA/MFG/OTM/AEROT,Aerospace-Team,Aerospace Team,Aerospace Team,IA MFG-OTM-AEROT,IA_MFG-OTM-AEROT_AllUsers,IA
+/sites/GM/Advocacy/AfricanDevelopmentBank,African-Development-Bank,African Development Bank,African Development Bank,GM-CS Advocacy-Field-African-Development-Bank,GM-CS_Advocacy-Field-African-Development-Bank_AllUsers,GM
+/sites/GM/Asia/India/Ahmedabad,Ahmedabad,Ahmedabad,Ahmedabad,GM-CS Asia-Field-India-Ahmedabad,Asia-Field-IndiaAhmedabad_AllUsers,GM-International
+/sites/GM/MEA/North/Africa/Algeria,Algeria,Algeria,Algeria,GM-CS MEA-Field-NorthAfrica-Algiers,GM-CS_MEA-Field-NorthAfrica-Algiers_AllUsers,GM-International
+/sites/GM/EUR/EURASIA/Russia/Almaty,Almaty,Almaty,Almaty,GM-CS EUR-Field-EURASIA-Russia-Almaty,GM-CS-EUR-Field-EURASIA-Russia-Almaty_AllUsers,GM-International
+/sites/GM/MEA/North/Africa/Amman,Jordan,Jordan,Amman,GM-CS MEA-Field-NorthAfrica-Amman,GM-CS_MEA-Field-NorthAfrica-Amman_AllUsers,GM-International
+/sites/OCFAO/ARD,Analysis-and-Reporting-Division,Analysis and Reporting Division,Analysis and Reporting Division,OCFAO-ARD,OCFAO-ARD_AllUsers,OCFAO
+/sites/GM/USA/PacificNorth/Anchorage,Anchorage,Anchorage,Anchorage,GM-CS USA-Field-PacificNorth-Anchorage,USA-Field-PacificNorth-Anchorage_AllUsers,GM-USA
+/sites/GM/EUR/Turkey/Ankara,Ankara,Ankara,Ankara,GM-CS EUR-Field-Turkey-Ankara,GM-CS_EUR-Field-Turkey-Ankara_AllUsers,GM-International
+/sites/OCIO/ASD,Architecture-Strategy-and-Design,"Architecture, Strategy and Design","Architecture, Strategy and Design",OCIO- ASD,OCIO_ASD_AllUsers,OCIO
+/sites/GM/WH/BuenosAires,Argentina,Argentina,Argentina,GM-CS WH-Field-ARGUR-BuenosAires,WH-Field-ARGUR -BuenosAires_AllUsers,GM-International
+/sites/GM/Asia/ASEAN,ASEAN-and-the-Pacific-Basin,ASEAN and the Pacific Basin,ASEAN and the Pacific Basin,GM-CS Asia-HQ-ASEAN-and-PacificBasin,Asia-HQ-ASEAN-and-PacificBasin_AllUsers,GM
+/sites/GM/Advocacy/AsiaDevelopmentBank,Asia-Development-Bank,Asia Development Bank,Asia Development Bank,GM-CS Advocacy-Field-Asia-Development-Bank,GM-CS_Advocacy-Field-Asia-Development-Bank_AllUsers,GM
+/sites/GM/Asia/AsiaOperations,Asia,Asia Operations,Asia Operations,GM-CS Asia-HQ,GM-CS_Asia_AllUsers,GM
+/sites/GM/EUR/Athens,Greece,Greece,Athens,GM-CS EUR-Field-SPG-Athens,GM-CS-EUR-Field-SPG-Athens_AllUsers,GM-International
+/sites/GM/USA/Southern/Atlanta,Atlanta,Atlanta,Atlanta,GM-CS USA-Field-Southern-Atlanta,USA-Field-Southern-Atlanta_AllUsers,GM-USA
+/sites/GM/Asia/NewZealand/Auckland,Auckland,Auckland,Auckland,GM-CS Asia-Field-ANZ-NewZealand-Auckland,Asia-Field-ANZ-NewZealand-Auckland_AllUsers,GM-International
+/sites/GM/USA/Southwest/Austin,Austin,Austin,Austin,GM-CS USA-Field-Southwest-Austin,USA-Field-Southwest-Austin_AllUsers,GM-USA
+/sites/GM/Asia/Australia,Australia,Australia,Australia,GM-CS Asia-Field-ANZ-Australia,GM-CS_Asia-Field-ANZ-Australia_AllUsers,GM-International
+/sites/GM/EUR/Austria,Austria,Austria,Austria,GM-CS EUR-Field-GEAUS-Vienna,GM-CS_EUR-Field-GEAUS-Vienna_AllUsers,GM-International
+/sites/IA/MFG/OTM/AUTOT,Automotive-Team,Automotive Team,Automotive Team,IA MFG-OTM-AUTOT,IA_MFG-OTM-AUTOT_AllUsers,IA
+/sites/GM/MEA/Iraq/Baghdad,Baghdad,Baghdad,Baghdad,GM-CS MEA-Field-Iraq-Baghdad,GM-CS_MEA-Field-Iraq-Baghdad_AllUsers,GM-International
+/sites/GM/USA/MidAtlantic/Baltimore,Baltimore,Baltimore,Baltimore,GM-CS USA-Field-MidAtlantic-Baltimore,USA-Field-MidAtlantic-Baltimore_AllUsers,GM-USA
+/sites/GM/Asia/India/Bangalore,Bangalore,Bangalore,Bangalore,GM-CS Asia-Field-India-Bangalore,Asia-Field-IndiaBangalore_AllUsers,GM-International
+/sites/GM/Asia/ASEAN/Bangkok,Thailand,Thailand,Bangkok,GM-CS Asia-Field-ASEAN-Bangkok,Asia-Field-ASEAN-Bangkok_AllUsers,GM-International
+/sites/GM/China/Beijing,Beijing,Beijing,Beijing,GM-CS China-Field-China-Beijing,GM-CS_China-Field China-Beijing_AllUsers,GM-International
+/sites/GM/MEA/North/Africa/Beirut,Lebanon,Lebanon,Beirut,GM-CS MEA-Field-NorthAfrica-Beirut,GM-CS_MEA-Field-NorthAfrica-Beirut_AllUsers,GM-International
+/sites/GM/EUR/Belgrade,Serbia,Serbia,Belgrade,GM-CS EUR-Field-Balkans-Belgrade,GM-CS_EUR-Field-Balkans-Belgrade_AllUsers,GM-International
+/sites/GM/WH/Brazil/BeloHorizonte,Belo-Horizonte,Belo Horizonte,Belo Horizonte,GM-CS WH-Field-Brazil-BeloHorizonte,WH-Field-Brazil-BeloHorizonte_AllUsers,GM-International
+/sites/GM/EUR/Germany/Berlin,Berlin,Berlin,Berlin,GM-CS EUR-Field-GEAUS-Germany-Berlin,GM-CS_EUR-Field-GEAUS-Germany-Berlin_AllUsers,GM-International
+/sites/GM/SelectUSA/Berne,Select-USA-Switzerland,Berne,Berne,GM-CS SelectUSA-Field-Berne,SelectUSA-Field-Berne_AllUsers,GM-International
+/sites/GM/USA/Southern/Birmingham,Birmingham,Birmingham,Birmingham,GM-CS USA-Field-Southern-Birmingham,USA-Field-Southern-Birmingham_AllUsers,GM-USA
+/sites/GM/WH/Bogota,Colombia,Colombia,Bogota,GM-CS WH-Field-ANDPAN-Bogota,WH-Field-ANDPAN-Bogota_AllUsers,GM-International
+/sites/GM/USA/PacificNorth/Boise,Boise,Boise,Boise,GM-CS USA-Field-PacificNorth-Boise,USA-Field-PacificNorth-Boise_AllUsers,GM-USA
+/sites/GM/USA/Northeast/Boston,Boston,Boston,Boston,GM-CS USA-Field-NorthEast-Boston,USA-Field-NorthEast-Boston_AllUsers,GM-USA
+/sites/GM/WH/Brazil/Brasilia,Brasilia,Brasilia,Brasilia,GM-CS WH-Field-Brazil-Brasilia,WH-Field-Brazil-Brasilia_AllUsers,GM-International
+/sites/GM/EUR/Bratislava,Slovakia,Slovakia,Bratislava,GM-CS EUR-Field-GEAUS-Bratislava,GM-CS_EUR-Field-GEAUS-Bratislava_AllUsers,GM-International
+/sites/GM/WH/Brazil,Brazil,Brazil,Brazil,GM-CS WH-Field-Brazil,GM-CS_WH-Field-Brazil_AllUsers,GM-International
+/sites/GM/EUR/Brussels,Belgium,Belgium,Brussels,GM-CS EUR-Field-Benelux-Brussels,GM-CS_EUR-Field-Benelux-Brussels_AllUsers,GM-International
+/sites/GM/EUR/RSCO-Bucharest,Romania,Romania,Bucharest,GM-CS EUR-Field-RSCO-Bucharest,GM-CS_EUR-Field-RSCO-Bucharest_AllUsers,GM-International
+/sites/GM/EUR/Budapest,Hungary,Hungary,Budapest,GM-CS EUR-Field-Balkans-Budapest,GM-CS_EUR-Field-Balkans-Budapest_AllUsers,GM-International
+/sites/OCFAO/BFD,Budget-and-Finance-Division,Budget and Finance Division,Budget and Finance Division,OCFAO-BFD,OCFAO-BFD_AllUsers,OCFAO
+/sites/GM/USA/Northeast/Buffalo,Buffalo,Buffalo,Buffalo,GM-CS USA-Field-NorthEast-Buffalo,USA-Field-NorthEast-Buffalo_AllUsers,GM-USA
+/sites/GM/WH/CAFTA,CAFTA,CAFTA,CAFTA,GM-CS WH-Field-CAFTA,GM-CS_WH-Field-CAFTA_AllUsers,GM-International
+/sites/GM/MEA/North/Africa/Cairo,Egypt,Egypt,Cairo,GM-CS MEA-Field-NorthAfrica-Cairo,GM-CS_MEA-Field-NorthAfrica-Cairo_AllUsers,GM-International
+/sites/GM/WH/Canada/Calgary,Calgary,Calgary,Calgary,GM-CS WH-Field-Canada-Calgary,WH-Field-CanadaCalgary_AllUsers,GM-International
+/sites/GM/WH/Canada,Canada,Canada,Canada,GM-CS WH-Field-Canada,GM-CS_WH-Field-Canada_AllUsers,GM-International
+/sites/GM/Asia/Australia/Canberra,Canberra,Canberra,Canberra,GM-CS Asia-Field-ANZ-Australia-Canberra,Asia-Field-ANZ-AustraliaCanberra_AllUsers,GM-International
+/sites/GM/MEA/Africa/SouthAfrica/CapeTown,Cape-Town,Cape Town,Cape Town,GM-CS MEA-Field-Africa-SouthAfrica-CapeTown,GM-CS_MEA-Field-Africa-SouthAfrica-CapeTown_AllUsers,GM-International
+/sites/IA/TPA/OTEA/CFIUS,CFIUS-Program,CFIUS Program,CFIUS Program,IA TPA-OTEA-CFIUS,IA_TPA-OTEA-CFIUS_AllUsers,IA
+/sites/GM/USA/MidAtlantic/CharlestonSC,Charleston-SC,"Charleston, SC","Charleston, SC",GM-CS USA-Field-MidAtlantic-CharlestonSC,USA-Field-MidAtlantic-CharlestonSC_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/CharlestonWV,Charleston-WV,"Charleston, WV","Charleston, WV",GM-CS USA-Field-MidAtlantic-CharlestonWV,USA-Field-MidAtlantic-CharlestonWV_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Charlotte,Charlotte,Charlotte,Charlotte,GM-CS USA-Field-MidAtlantic-Charlotte,USA-Field-MidAtlantic-Charlotte_AllUsers,GM-USA
+/sites/GM/China/Chengdu,Chengdu,Chengdu,Chengdu,GM-CS China-Field-China-Chengdu,China-Field China-Chengdu_AllUsers,GM-International
+/sites/GM/Asia/India/Chennai,Chennai,Chennai,Chennai,GM-CS Asia-Field-India-Chennai,Asia-Field-IndiaChennai_AllUsers,GM-International
+/sites/GM/USA/MidWest/Chicago,Chicago,Chicago,Chicago,GM-CS USA-Field-MidWest-Chicago,USA-Field-MidWest-Chicago_AllUsers,GM-USA
+/sites/EC/CCTEC,Chief-Counsel-for-Trade-Enforcement-and-Compliance,Chief Counsel for Trade Enforcement & Compliance,Chief Counsel for Trade Enforcement & Compliance,EC CCTEC,EC-CCTEC_AllUsers,EC
+/sites/GM/China/Field,China-Field,China Field,China Field,GM CS-China-Field China,GM-CS_China-Field-China_AllUsers,GM-International
+/sites/GM/China/ChinaOperations,China-Operations,China Operations,China Operations,GM-CS China-HQ,GM-CS_China_AllUsers,GM
+/sites/GM/USA/GreatLakes/Cincinnati,Cincinnati,Cincinnati,Cincinnati,GM-CS USA-Field-GreatLakes-Cincinnati,USA-Field-GreatLakes-Cincinnati_AllUsers,GM-USA
+/sites/GM/USA/Southern/Clearwater,Clearwater,Clearwater,Clearwater,GM-CS USA-Field-Southern-Clearwater,USA-Field-Southern-Clearwater_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes/Cleveland,Cleveland,Cleveland,Cleveland,GM-CS USA-Field-GreatLakes-Cleveland,USA-Field-GreatLakes-Cleveland_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Columbia,Columbia,Columbia,Columbia,GM-CS USA-Field-MidAtlantic-Columbia,USA-Field-MidAtlantic-Columbia_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes/Columbus,Columbus,Columbus,Columbus,GM-CS USA-Field-GreatLakes-Columbus,USA-Field-GreatLakes-Columbus_AllUsers,GM-USA
+/sites/GM/WH/CAFTA/SanJose,Costa-Rica,Costa Rica,Costa Rica,GM-CS WH-Field-CAFTA-SanJose,WH-Field-CAFTA-SanJose_AllUsers,GM-International
+/sites/GM/MEA/Africa/AbidjanCotedIvoire,Cote-divoire,Cote dIvoire,Cote dIvoire,GM-CS MEA-Field-Africa-AbidjanCotedIvoire,GM-CS_MEA-Field-Africa-AbidjanCotedIvoire_AllUsers,GM-International
+/sites/OCIO/PD/CRM,Customer-Relationship-Management,Customer Relationship Management,Customer Relationship Management,OCIO- PD-CRM,OCIO_PD-CRM_AllUsers,OCIO
+/sites/OCIO/CS,Customer-Service,Customer Service,Customer Service,OCIO- CS,OCIO_CS_AllUsers,OCIO
+/sites/EC/ADCVD/CU,Customs-Liaison-Unit,Customs Liaison Unit,Customs Liaison Unit,EC ADCVDCU,EC-ADCVDCLU_AllUsers,EC
+/sites/OCIO/CSO,Cyber-Security-Operations,Cyber Security Operations,Cyber Security Operations,OCIO- CSO,OCIO_CSO_AllUsers,OCIO
+/sites/GM/USA/Southwest/DallasFortworth,Dallas-Ft-Worth,Dallas - Ft. Worth,Dallas - Ft. Worth,GM-CS USA-Field-Southwest-DallasFortworth,USA-Field-Southwest-DallasFortworth_AllUsers,GM-USA
+/sites/GM/MEA/Africa/DarEsSalaam,Tanzania,Tanzania,Dar Es Salaam,GM-CS MEA-Field-Africa-DarEsSalaam,GM-CS_MEA-Field-Africa-DarEsSalaam_AllUsers,GM-International
+/sites/IA/MFG/ODAS,DAS-for-Manufacturing,DAS for Manufacturing,DAS for Manufacturing,IA MFG-ODAS,IA_MFG-ODAS_AllUsers,IA
+/sites/IA/SVCS/ODAS,DAS-for-Services,DAS for Services,DAS for Services,IA SVCS-ODAS,IA_SVCS-ODAS_AllUsers,IA
+/sites/IA/TCGM/ODAS,DAS-for-Textiles-Consumer-Goods-and-Materials,"DAS for Textiles, Consumer Goods & Materials","DAS for Textiles, Consumer Goods & Materials",IA TCGM-ODAS,IA_TCGM-ODAS_AllUsers,IA
+/sites/IA/TPA/ODAS,DAS-for-Trade-Policy-and-Analysis,DAS for Trade Policy & Analysis,DAS for Trade Policy & Analysis,IA TPA-ODAS,IA_TPA-ODAS_AllUsers,IA
+/sites/IA/SVCS/ODSI/DPT,Data-Flows-and-Privacy-Team,Data Flows & Privacy Team,Data Flows & Privacy Team,IA SVCS-ODSI-DPT,IA_SVCS-ODSI-DPT_AllUsers,IA
+/sites/GM/EUR/Nordics/Copenhagen,Denmark,Denmark,Copenhagen,GM-CS EMEA-Field-Nordics-Copenhagen,GM-CS_EUR-Field-Nordics-Copenhagen_AllUsers,GM-International
+/sites/GM/USA/Southwest/Denver,Denver,Denver,Denver,GM-CS USA-Field-Southwest-Denver,USA-Field-Southwest-Denver_AllUsers,GM-USA
+/sites/GM/USA/MidWest/DesMoines,DesMoines,DesMoines,Des Moines,GM-CS USA-Field-MidWest-DesMoines,USA-Field-MidWest-DesMoines_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes/Detroit,Detroit,Detroit,Detroit,GM-CS USA-Field-GreatLakes-Detroit,USA-Field-GreatLakes-Detroit_AllUsers,GM-USA
+/sites/GM/MEA/SaudiArabia/Dhahran,Dhahran,Dhahran,Dhahran,GM-CS MEA-Field-SaudiArabia-Dhahran,GM-CS_MEA-Field-SaudiArabia-Dhahran_AllUsers,GM-International
+/sites/IA/SVCS/ODSI/DIST,Digital-Internet-Services-Team,Digital & Internet Services Team,Digital & Internet Services Team,IA SVCS-ODSI-DIST,IA_SVCS-ODSI-DIST_AllUsers,IA
+/sites/GM/MEA/Gulf/Doha,Qatar,Qatar,Doha,GM-CS MEA-Field-Gulf-Doha,GM-CS_MEA-Field-Gulf-Doha_AllUsers,GM-International
+/sites/GM/WH/SantoDominigo,Dominican-Republic,Dominican Republic,Dominican Republic,GM-CS WH-Field-SantoDomingo,WH-Field-SantoDomingo_AllUsers,GM-International
+/sites/GM/MEA/Gulf/UAE/Dubai,Dubai,Dubai,Dubai,GM-CS MEA-Field-Gulf-UAE-Dubai,GM-CS_MEA-Field-Gulf-UAE-Dubai_AllUsers,GM-International
+/sites/GM/EUR/UK/Dublin,Ireland,Ireland,Dublin,GM-CS EUR-Field-UK-Dublin,GM-CS_EUR-Field-UK-Dublin_AllUsers,GM-International
+/sites/GM/MEA/Africa/SouthAfrica/Durban,Durban,Durban,Durban,GM-CS MEA-Field-Africa-SouthAfrica-Durban,GM-CS_MEA-Field-Africa-SouthAfrica-Durban_AllUsers,GM-International
+/sites/GM/EUR/Germany/Dusseldorf,Dusseldorf,Dusseldorf,Dusseldorf,GM-CS EUR-Field-GEAUS-Germany-Dusseldorf,GM-CS_EUR-Field-GEAUS-Germany-Dusseldorf_AllUsers,GM-International
+/sites/EC/BEIJING/,EC-Beijing,E&C Beijing Field Office,E&C Beijing Field Office,EC BEIJING,EC-Beijing_AllUsers,EC
+/sites/EC/FTZ,Foreign-Trade-Zone,E&C Foreign Trade Zones,E&C Foreign Trade Zones,EC FTZ,EC-FTZ_AllUsers,EC
+/sites/EC/OA,EC-Office-of-Accounting,E&C Office of Accounting,E&C Office of Accounting,EC OA,EC-OA_AllUsers,EC
+/sites/EC/OOS,EC-Office-of-Operations-Support,E&C Office of Operations Support,E&C Office of Operations Support,EC OOS,EC-OOS_AllUsers,EC
+/sites/EC/OP,EC-Office-of-Policy,E&C Office of Policy,E&C Office of Policy,EC OP DASPN,EC-OP_AllUsers,EC
+/sites/EC/TANC,Trade-Agreements-Negotiations-and-Compliance,"E&C Trade Agreements, Negotiations, and Compliance","E&C Trade Agreements, Negotiations, and Compliance",EC TANC,EC-TANC_AllUsers,EC
+/sites/GM/Asia/EastAsia,East-Asia-and-APEC,East Asia,East Asia,GM-CS Asia-HQ-EastAsia-and-APEC,GM-CS_Asia-HQ-EastAsia-and-APEC_AllUsers,GM
+/sites/GM/USA/Southwest/ElPaso,El-Paso,El Paso,El Paso,GM-CS USA-Field-Southwest-ElPaso,USA-Field-Southwest-ElPaso_AllUsers,GM-USA
+/sites/GM/WH/CAFTA/SanSalvador,El-Salvador,El Salvador,El Salvador,GM-CS WH-Field-CAFTA-SanSalvador,WH-Field-CAFTA-SanSalvador_AllUsers,GM-International
+/sites/IA/MFG/OEEI/ENEGT,Energy-Team,Energy Team,Energy Team,IA MFG-OEEI-ENEGT,IA_MFG-OEEI-ENEGT_AllUsers,IA
+/sites/EC,Enforcement-and-Compliance,Enforcement & Compliance,Enforcement & Compliance,EC,EC_AllUsers,EC
+/sites/OCIO/ASD/EA,Enterprise-Architecture,Enterprise Architecture,Enterprise Architecture,OCIO- ASD-EA,OCIO_ASD-EA_AllUsers,OCIO
+/sites/IA/MFG/OEEI/ENVT,Environmental-Industries,Environmental Industries,Environmental Industries,IA MFG-OEEI-ENVT,IA_MFG-OEEI-ENVT_AllUsers,IA
+/sites/GM/MEA/Iraq/Erbil,Erbil,Erbil,Erbil,GM-CS MEA-Field-Iraq-Erbil,GM-CS_MEA-Field-Iraq-Erbil_AllUsers,GM-International
+/sites/GM/EUR/HQ/DAS,Europe-DAS,Europe DAS,Europe DAS,GM-CS EUR-HQ-DAS-Office,GM-CS_EUR-HQ-DAS-Office_AllUsers,GM
+/sites/GM/EUR/HQ,Europe-HQ,Europe HQ,Europe HQ,GM-CS EUR-HQ,GM-CS_EUR-HQ_AllUsers,GM
+/sites/GM/EUR,Europe-Operations,Europe Operations,Europe Operations,GM-CS EUR-HQ,GM-CS_EUR_AllUsers,GM
+/sites/GM/Advocacy/EuropeDevelopmentBank,European-Development-Bank,European Development Bank,European Development Bank,GM-CS Advocacy-Field-Europe-Development-Bank,GM-CS_Advocacy-Field-Europe-Development-Bank_AllUsers,GM
+/sites/GM/USA/MidWest/Fargo,Fargo,Fargo,Fargo,GM-CS USA-Field-MidWest-Fargo,USA-Field-MidWest-Fargo_AllUsers,GM-USA
+/sites/OCIO/FA,OCIO-Finance-and-Administration,Finance and Administration,Finance and Administration,OCIO- FA,OCIO_FA_AllUsers,OCIO
+/sites/IA/SVCS/OFI/FST,Financial-Services-Team,Financial Services Team,Financial Services Team,IA SVCS-OFI-FST,IA_SVCS-OFI-FST_AllUsers,IA
+/sites/GM/USA/Southern/FortLauderdale,Fort-Lauderdale,Fort Lauderdale,Fort Lauderdale,GM-CS USA-Field-Southern-FortLauderdale,USA-Field-Southern-FortLauderdale_AllUsers,GM-USA
+/sites/GM/EUR/Paris,France,France,France,GM-CS EMEA-Field-SPG-Madrid,GM-CS_EUR-Field-Benelux-Paris_AllUsers,GM-International
+/sites/GM/EUR/Germany/Frankfurt,Frankfurt,Frankfurt,Frankfurt,GM-CS EUR-Field-GEAUS-Germany-Frankfurt,GM-CS_EUR-Field-GEAUS-Germany-Frankfurt_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/Fresno,Fresno,Fresno,Fresno,GM-CS USA-Field-PacificSouth-Fresno,USA-Field-PacificSouth-Fresno_AllUsers,GM-USA
+/sites/GM/EUR/Germany,Germany,Germany,Germany,GM-CS EUR-Field-GEAUS-Germany,GM-CS_EUR-Field-GEAUS-Germany_AllUsers,GM-International
+/sites/GM/MEA/Africa/Accra,Ghana,Ghana,Ghana,GM-CS MEA-Field-Africa-Accra,GM-CS_MEA-Field-Africa-Accra_AllUsers,GM-International
+/sites/GM,Global-Markets,Global Markets,Global Markets,"GM-CS_DDG-HQ, GM-CS_DDG-CDI",GM-CS_AllUsers,GM
+/sites/GM/USA/GreatLakes/GrandRapids,Grand-Rapids,Grand Rapids,Grand Rapids,GM-CS USA-Field-GreatLakes-GrandRapids,USA-Field-GreatLakes-GrandRapids_AllUsers,GM-USA
+/sites/GM/USA/Southwest/Grapevine,Grapevine,Grapevine,Grapevine,GM-CS USA-Field-Southwest-Grapevine,USA-Field-Southwest-Grapevine_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes,Great-Lakes,Great Lakes,Great Lakes,GM-CS USA-Field-GreatLakes,GM-CS_USA-Field-GreatLakes_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Greensboro,Greensboro,Greensboro,Greensboro,GM-CS USA-Field-MidAtlantic-Greensboro,USA-Field-MidAtlantic-Greensboro_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Greenville,Greenville,Greenville,Greenville,GM-CS USA-Field-MidAtlantic-Greenville,USA-Field-MidAtlantic-Greenville_AllUsers,GM-USA
+/sites/GM/WH/Mexico/Guadalajara,Guadalajara,Guadalajara,Guadalajara,GM-CS WH-Field-Mexico-Guadalajara,WH-Field -Mexico-Guadalajara_AllUsers,GM-International
+/sites/GM/China/Guangzhou,Guangzhou,Guangzhou,Guangzhou,GM-CS China-Field-China-Guangzhou,China-Field China-Guangzhou_AllUsers,GM-International
+/sites/GM/WH/CAFTA/GuatemalaCity,Guatemala,Guatemala,Guatemala,GM-CS WH-Field-CAFTA-GuatemalaCity,WH-Field-CAFTA-GuatemalaCity_AllUsers,GM-International
+/sites/GM/Asia/ASEAN/Vietnam/Hanoi,Hanoi,Hanoi,Hanoi,GM-CS Asia-Field-ASEAN-Vietnam-Hanoi,Asia-Field-ASEAN-VietnamHanoi_AllUsers,GM-International
+/sites/GM/USA/Northeast/Harlem,Harlem,Harlem,Harlem,GM-CS USA-Field-NorthEast-Harlem,USA-Field-NorthEast-Harlem_AllUsers,GM-USA
+/sites/IA/MFG/OHIT/HT,Health-Team,Health Team,Health Team,IA MFG-OHIT-HT,IA_MFG-OHIT-HT_AllUsers,IA
+/sites/GM/EUR/Nordics/Helsinki,Finland,Finland,Helsinki,GM-CS EMEA-Field-Nordics-Helsinki,GM-CS_EUR-Field-Nordics-Helsinki_AllUsers,GM-International
+/sites/GM/Asia/ASEAN/Vietnam/HCMC,Ho-Chi-Minh-City,Ho Chi Minh City,Ho Chi Minh City,GM-CS Asia-Field-ASEAN-Vietnam-HCMC,Asia-Field-ASEAN-VietnamHCMC_AllUsers,GM-International
+/sites/GM/China/HongKong,Hong-Kong,Hong Kong,Hong Kong,GM-CS China-Field-HongKong,GM-CS China-Field-HongKong_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/Honolulu,Honolulu,Honolulu,Honolulu,GM-CS USA-Field-PacificSouth-Honolulu,USA-Field-PacificSouth-Honolulu_AllUsers,GM-USA
+/sites/GM/USA/Southwest/Houston,Houston,Houston,Houston,GM-CS USA-Field-Southwest-Houston,USA-Field-Southwest-Houston_AllUsers,GM-USA
+/sites/GM/Asia/India/Hyderbad,Hyderabad,Hyderabad,Hyderabad,GM-CS Asia-Field-India-Hyderabad,Asia-Field-IndiaHyderabad_AllUsers,GM-International
+/sites/GM/Asia/India,India,India,India,GM-CS Asia-Field-India,GM-CS_Asia-Field-India_ALLUsers,GM-International
+/sites/GM/USA/GreatLakes/Indianapolis,Indianapolis,Indianapolis,Indianapolis,GM-CS USA-Field-GreatLakes-Indianapolis,USA-Field-GreatLakes-Indianapolis_AllUsers,GM-USA
+/sites/IA,Industry-and-Analysis,Industry & Analysis,Industry & Analysis,IA,IA_AllUsers,IA
+/sites/IA/TPA/OTNA/IC,Industry-Competitiveness-Team,Industry Competitiveness Team,Industry Competitiveness Team,IA TPA-OTNA-IC,IA_TPA-OTNA-IC_AllUsers,IA
+/sites/IA/TPA/OTNA/IN,Industry-Negotiations-Team,Industry Negotiations Team,Industry Negotiations Team,IA TPA-OTNA-IN,IA_TPA-OTNA-IN_AllUsers,IA
+/sites/IA/MFG/OHIT/ITT,Information-Technologies-Team,Information Technologies Team,Information Technologies Team,IA MFG-OHIT-ITT,IA_MFG-OHIT-ITT_AllUsers,IA
+/sites/GM/USA/PacificSouth/InlandEmpire,Inland-Empire,Inland Empire,Inland Empire,GM-CS USA-Field-PacificSouth-InlandEmpire,USA-Field-PacificSouth-InlandEmpire_AllUsers,GM-USA
+/sites/GM/Advocacy/InterAmericanDevelopmentBank,Inter-American-Development-Bank,Inter-American Development Bank,Inter-American Development Bank,GM-CS Advocacy-Field-InterAmerican-Development-Bank,GM-CS_Advocacy-Field-InterAmerican-Development-Bank_AllUsers,GM
+/sites/IA/TPA/OSIP/INV,Investment-Team,Investment Team,Investment Team,IA TPA-OSIP,IA_TPA-OSIP-INV_AllUsers,IA
+/sites/GM/MEA/Iraq,Iraq,Iraq,Iraq,GM-CS MEA-Field-Iraq,GM-CS_MEA-Field-Iraq_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/NewportBeach,Irvine,Irvine,Irvine,GM-CS USA-Field-PacificSouth-NewportBeach,USA-Field-PacificSouth-NewportBeach_AllUsers,GM-USA
+/sites/GM/Asia/Pakistan/Islamabad,Islamabad,Islamabad,Islamabad,GM-CS Asia-Field-Pakistan-Islamabad,Asia-Field-PakistanIslamabad_AllUsers,GM-International
+/sites/GM/MEA/Israel,Israel,Israel,Israel,GM-CS MEA-Field-Israel,GM-CS_MEA-Field-Israel_AllUsers,GM-International
+/sites/GM/EUR/Turkey/Istanbul,Istanbul,Istanbul,Istanbul,GM-CS EUR-Field-Turkey-Istanbul,GM-CS_EUR-Field-Turkey-Istanbul_AllUsers,GM-International
+/sites/OCFAO/HC,ITA-Human-Capital,ITA Human Capital,ITA Human Capital,OCFAO-HC,OCFAO-HC_AllUsers,OCFAO
+/sites/OCFAO/HC/Learning,ITA-Human-Capital-Learning-Division,ITA Human Capital Learning Division,ITA Human Capital Learning Division,OCFAO-HC-Learning,OCFAO-HC-Learning_AllUsers,OCFAO
+/sites/OCFAO/HC/People,ITA-Human-Capital-People-Division,ITA Human Capital People Division,ITA Human Capital People Division,OCFAO-HC-People,OCFAO-HC-People_AllUsers,OCFAO
+/sites/GM/EUR/Italy,Italy,Italy,Italy,GM-CS EUR-Field-Italy,GM-CS_EUR-Field-Italy_AllUsers,GM-International
+/sites/GM/EUR/Turkey/Izmir,Izmir,Izmir,Izmir,GM-CS EUR-Field-Turkey-Izmir,GM-CS_EUR-Field-Turkey-Izmir_AllUsers,GM-International
+/sites/GM/USA/Southern/Jackson,Jackson,Jackson,Jackson,GM-CS USA-Field-Southern-Jackson,USA-Field-Southern-Jackson_AllUsers,GM-USA
+/sites/GM/USA/Southern/Jacksonville,Jacksonville,Jacksonville,Jacksonville,GM-CS USA-Field-Southern-Jacksonville,USA-Field-Southern-Jacksonville_AllUsers,GM-USA
+/sites/GM/Asia/ASEAN/Jakarta,Indonesia,Indonesia,Jakarta,GM-CS Asia-Field-ASEAN-Jakarta,Asia-Field-ASEAN-Jakarta_AllUsers,GM-International
+/sites/GM/Asia/Japan,Japan,Japan,Japan,GM-CS Asia-Field-Japan,GM-CS_Asia-Field-Japan_AllUsers,GM-International
+/sites/GM/MEA/SaudiArabia/Jeddah,Jeddah,Jeddah,Jeddah,GM-CS MEA-Field-SaudiArabia-Jeddah,GM-CS_MEA-Field-SaudiArabia-Jeddah_AllUsers,GM-International
+/sites/GM/MEA/Israel/Jerusualem,Jerusalem,Jerusalem,Jerusalem,GM-CS MEA-Field-Israel-Jerusalem,GM-CS_MEA-Field-Israel-Jerusalem_AllUsers,GM-International
+/sites/GM/MEA/Africa/SouthAfrica/Johannesburg,Johannesburg,Johannesburg,Johannesburg,GM-CS MEA-Field-Africa-SouthAfrica-Johannesburg,GM-CS_MEA-Field-Africa-SouthAfrica-Johannesburg_AllUsers,GM-International
+/sites/GM/Asia/Kabul,Afghanistan,Afghanistan,Kabul,GM-CS Asia-Field-Kabul,GM-CS_Asia-Field-Kabul_ALLUsers,GM-International
+/sites/GM/USA/MidWest/KansasCity,Kansas-City,Kansas City,Kansas City,GM-CS USA-Field-MidWest-KansasCity,USA-Field-MidWest-KansasCity_AllUsers,GM-USA
+/sites/GM/Asia/Taiwan/Kaohsiung,Kaohsiung,Kaohsiung,Kaohsiung,GM-CS Asia-Field-Taiwan-Kaohsiung,Asia-Field-TaiwanTaipei_AllUsers,GM-International
+/sites/GM/Asia/Pakistan/Karachi,Karachi,Karachi,Karachi,GM-CS Asia-Field-Pakistan-Karachi,Asia-Field-PakistanKarachi_AllUsers,GM-International
+/sites/GM/EUR/EURASIA/Kiev,Ukraine,Ukraine,Kiev,GM-CS EUR-Field-EURASIA-Kiev,GM-CS_EUR-Field-EURASIA-Kiev_AllUsers,GM-International
+/sites/GM/USA/GreatLakes/Knoxville,Knoxville,Knoxville,Knoxville,GM-CS USA-Field-GreatLakes-Knoxville,USA-Field-GreatLakes-Knoxville_AllUsers,GM-USA
+/sites/GM/Asia/India/Kolkata,Kolkata,Kolkata,Kolkata,GM-CS Asia-Field-India-Kolkata,Asia-Field-IndiaKolkata_AllUsers,GM-International
+/sites/GM/Asia/Seoul,Korea,Korea,Korea,GM-CS Asia-Field-Seoul,GM-CS_Asia-Field-Seoul_AllUsers,GM-International
+/sites/GM/MEA/Gulf/KuwaitCity,Kuwait,Kuwait,Kuwait,GM-CS MEA-Field-Gulf-KuwaitCity,GM-CS_MEA-Field-Gulf-KuwaitCity_AllUsers,GM-International
+/sites/GM/MEA/Africa/Lagos,Nigeria,Nigeria,Lagos,GM-CS MEA-Field-Africa-Lagos,GM-CS_MEA-Field-Africa-Lagos_AllUsers,GM-International
+/sites/GM/Asia/Pakistan/Lahore,Lahore,Lahore,Lahore,GM-CS Asia-Field-Pakistan-Lahore,Asia-Field-PakistanLahore_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/LasVegas,Las-Vegas,Las Vegas,Las Vegas,GM-CS USA-Field-PacificSouth-LasVegas,USA-Field-PacificSouth-LasVegas_AllUsers,GM-USA
+/sites/GM/WH/HQ/LatinAmericaAndCaribbean,Latin-America-and-Caribbean,Latin America and Caribbean,Latin America and Caribbean,GM-CS_WH-HQ-LatinAmerica-and-Caribbean,GM-CS_WH-HQ-LatinAmerica-and-Caribbean_AllUsers,GM
+/sites/GM/USA/GreatLakes/Lexington,Lexington,Lexington,Lexington,GM-CS USA-Field-GreatLakes-Lexington,USA-Field-GreatLakes-Lexington_AllUsers,GM-USA
+/sites/GM/MEA/North/Africa/Tripoli,Libya,Libya,Libya,GM-CS MEA-Field-NorthAfrica-Tripoli,GM-CS_MEA-Field-NorthAfrica-Tripoli_AllUsers,GM-International
+/sites/GM/EUR/Lisbon,Portugal,Portugal,Lisbon,GM-CS EUR-Field-SPG-Lisbon,GM-CS-EUR-Field-SPG-Lisbon_AllUsers,GM-International
+/sites/GM/USA/Southern/LittleRock,Little-Rock,Little Rock,Little Rock,GM-CS USA-Field-Southern-LittleRock,USA-Field-Southern-LittleRock_AllUsers,GM-USA
+/sites/GM/EUR/UK/London,London,London,London,GM-CS EUR-Field-UK-London,GM-CS_EUR-Field-UK-London_AllUsers,GM-International
+/sites/GM/USA/Northeast/LongIsland,Long-Island,Long Island,Long Island,GM-CS USA-Field-NorthEast-LongIsland,USA-Field-NorthEast-LongIsland_AllUsers,GM-USA
+/sites/GM/USA/PacificSouth/LosAngeles,Los-Angeles,Los Angeles,Los Angeles,GM-CS USA-Field-PacificSouth-LosAngeles,USA-Field-PacificSouth-LosAngeles_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes/Louisville,Louisville,Louisville,Louisville,GM-CS USA-Field-GreatLakes-Louisville,USA-Field-GreatLakes-Louisville_AllUsers,GM-USA
+/sites/GM/MEA/Africa/Luanda,Angola,Angola,Luanda,GM-CS MEA-Field-Africa-Luanda,GM-CS_MEA-Field-Africa-Luanda_AllUsers,GM-International
+/sites/IA/MFG/OTM/MT,Machinery-Team,Machinery Team,Machinery Team,IA MFG-OTM-MT,IA_MFG-OTM-MT_AllUsers,IA
+/sites/GM/EUR/Madrid,Spain,Spain,Madrid,GM-CS EUR-Field-SPG-Madrid,GM-CS-EUR-Field-SPG-Madrid_AllUsers,GM-International
+/sites/GM/Asia/ASEAN/KaulaLumpur,Malaysia,Malaysia,Malaysia,GM-CS Asia-Field-ASEAN-KaulaLumpur,Asia-Field-ASEAN-KaulaLumpur_AllUsers,GM-International
+/sites/OCFAO/MOD,Management-Operations-Division,Management Operations Division,Management Operations Division,OCFAO-MOD,OCFAO-MOD_AllUsers,OCFAO
+/sites/GM/Asia/ASEAN/Manila,Philippines,Philippines,Manila,GM-CS Asia-Field-ASEAN-Manila,Asia-Field-ASEAN-Manila_AllUsers,GM-International
+/sites/IA/MFG,Manufacturing,Manufacturing,Manufacturing,IA MFG,IA_MFG_AllUsers,IA
+/sites/GM/MEA/Africa/Maputo,Mozambique,Mozambique,Maputo,GM-CS MEA-Field-Africa-Maputo,GM-CS_MEA-Field-Africa-Maputo_AllUsers,GM-International
+/sites/IA/TPA/OTEA/MC,Market-Conditions-Team,Market Conditions Team,Market Conditions Team,IA TPA-OTEA,IA_TPA-OTEA-MC_AllUsers,IA
+/sites/GM/MEA/HQ/DAS,MEA-DAS,MEA DAS,MEA DAS,GM-CS MEA-HQ-DAS-Office,GM-CS_MEA-HQ-DAS-Office_AllUsers,GM
+/sites/GM/MEA,MEA-Operations,MEA Operations,MEA Operations,GM-CS MEA,GM-CS_MEA_AllUsers,GM
+/sites/GM/MEA/HQ,MEA-HQ,MEA-HQ,MEA-HQ,GM-CS MEA-HQ,GM-CS_MEA-HQ_AllUsers,GM
+/sites/GM/USA/GreatLakes/Memphis,Memphis,Memphis,Memphis,GM-CS USA-Field-GreatLakes-Memphis,USA-Field-GreatLakes-Memphis_AllUsers,GM-USA
+/sites/GM/WH/Mexico,Mexico,Mexico,Mexico,GM-CS WH-Field-Mexico,GM-CS_WH-Field-Mexico_AllUsers,GM-International
+/sites/GM/WH/Mexico/MexicoCity,Mexico-City,Mexico City,Mexico City,GM-CS WH-Field-Mexico-MexicoCity,WH-Field-Mexico-MexicoCity_AllUsers,GM-International
+/sites/GM/USA/Southern/Miami,Miami,Miami,Miami,GM-CS USA-Field-Southern-Miami,USA-Field-Southern-Miami_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic,Mid-Atlantic-Network,Mid-Atlantic,Mid-Atlantic,GM-CS USA-Field-MidAtlantic,GM-CS_USA-Field-MidAtlantic_AllUsers,GM-USA
+/sites/GM/USA/Northeast/Middletown,Middletown,Middletown,Middletown,GM-CS USA-Field-NorthEast-Middletown,USA-Field-NorthEast-Middletown_AllUsers,GM-USA
+/sites/GM/USA/MidWest,Midwest-Network,Midwest,Midwest,GM-CS USA-Field-MidWest,GM-CS_USA-Field-MidWest_AllUsers,GM-USA
+/sites/GM/EUR/Italy/Milan,Milan,Milan,Milan,GM-CS EUR-Field-Italy-Milan,GM-CS_EUR-Field-Italy-Milan_AllUsers,GM-International
+/sites/GM/USA/GreatLakes/Milwaukee,Milwaukee,Milwaukee,Milwaukee,GM-CS USA-Field-GreatLakes-Milwaukee,USA-Field-GreatLakes-Milwaukee_AllUsers,GM-USA
+/sites/GM/USA/MidWest/Minneapolis,Minneapolis,Minneapolis,Minneapolis,GM-CS USA-Field-MidWest-Minneapolis,USA-Field-MidWest-Minneapolis_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/Missoula,Missoula,Missoula,Missoula,GM-CS USA-Field-PacificNorth-Missoula,USA-Field-PacificNorth-Missoula_AllUsers,GM-USA
+/sites/GM/WH/Mexico/Monterrey,Monterrey,Monterrey,Monterrey,GM-CS WH-Field-Mexico-Monterrey,WH-Field-Mexico-Monterrey_AllUsers,GM-International
+/sites/GM/WH/Montevideo,Uruguay,Uruguay,Montevideo,GM-CS WH-Field-ARGUR-Montevideo,WH-Field-ARGUR-Montevideo_AllUsers,GM-International
+/sites/GM/USA/Northeast/Montpelier,Montpelier,Montpelier,Montpelier,GM-CS USA-Field-NorthEast-Montpelier,USA-Field-NorthEast-Montpelier_AllUsers,GM-USA
+/sites/GM/WH/Canada/Montreal,Montreal,Montreal,Montreal,GM-CS WH-Field-Canada-Montreal,WH-Field-CanadaMontreal_AllUsers,GM-International
+/sites/GM/MEA/North/Africa/Casablanca,Morocco,Morocco,Morocco,GM-CS MEA-Field-NorthAfrica-Casablanca,GM-CS_MEA-Field-NorthAfrica-Casablanca_AllUsers,GM-International
+/sites/GM/EUR/EURASIA/Russia/Moscow,Moscow,Moscow,Moscow,GM-CS EUR-Field-EURASIA-Russia-Moscow,GM-CS-EUR-Field-EURASIA-Russia-Moscow_AllUsers,GM-International
+/sites/GM/Asia/India/Mumbai,Mumbai,Mumbai,Mumbai,GM-CS Asia-Field-India-Mumbai,Asia-Field-IndiaMumbai_AllUsers,GM-International
+/sites/GM/EUR/Germany/Munich,Munich,Munich,Munich,GM-CS EUR-Field-GEAUS-Germany-Munich,GM-CS_EUR-Field-GEAUS-Germany-Munich_AllUsers,GM-International
+/sites/GM/MEA/Africa/Nairobi,Kenya,Kenya,Nairobi,GM-CS MEA-Field-Africa-Nairobi,GM-CS_MEA-Field-Africa-Nairobi_AllUsers,GM-International
+/sites/GM/USA/GreatLakes/Nashville,Nashville,Nashville,Nashville,GM-CS USA-Field-GreatLakes-Nashville,USA-Field-GreatLakes-Nashville_AllUsers,GM-USA
+/sites/IA/NTTO,National-Travel-and-Tourism-Office,National Travel & Tourism Office,National Travel & Tourism Office,IA NTTO,IA_NTTO_AllUsers,IA
+/sites/GM/Asia/India/NewDelhi,New-Delhi,New Delhi,New Delhi,GM-CS Asia-Field-India-NewDelhi,Asia-Field-IndiaAhmedabad_AllUsers,GM-International
+/sites/GM/USA/Northeast/NewHampshire,New-Hampshire,New Hampshire,New Hampshire,GM-CS USA-Field-NorthEast-NewHampshire,USA-Field-NorthEast-NewHampshire_AllUsers,GM-USA
+/sites/GM/USA/Southwest/NewOrleans,New-Orleans,New Orleans,New Orleans,GM-CS USA-Field-Southwest-NewOrleans,USA-Field-Southwest-NewOrleans_AllUsers,GM-USA
+/sites/GM/USA/Northeast/NewYork,New-York,New York,New York,GM-CS USA-Field-NorthEast-NewYork,USA-Field-NorthEast-NewYork_AllUsers,GM-USA
+/sites/GM/Asia/NewZealand,New-Zealand,New Zealand,New Zealand,GM-CS Asia-Field-ANZ-NewZealand,GM-CS_Asia-Field-ANZ-NewZealand_AllUsers,GM-International
+/sites/GM/USA/Northeast/Newark,Newark,Newark,Newark,GM-CS USA-Field-NorthEast-Newark,USA-Field-NorthEast-Newark_AllUsers,GM-USA
+/sites/GM/EUR/Nordics,Nordics,Nordics,Nordics,GM-CS EUR-Field-Nordics,GM-CS_EUR-Field-Nordics_AllUsers,GM-International
+/sites/GM/WH/HQ/NorthAmerica,North-America,North America,North America,GM-CS_WH-HQ-NorthAmerica,WH-HQ-NorthAmerica_AllUsers,GM
+/sites/GM/USA/PacificNorth/NorthBay,North-Bay,North Bay,North Bay,GM-CS USA-Field-PacificNorth-NorthBay,USA-Field-PacificNorth-NorthBay_AllUsers,GM-USA
+/sites/GM/USA/Southwest/NorthTexas,North-Texas,North Texas,North Texas,GM-CS USA-Field-Southwest-NorthTexas,USA-Field-Southwest-NorthTexas_AllUsers,GM-USA
+/sites/GM/USA/Northeast,Northeast,Northeast,Northeast,GM-CS USA-Field-NorthEast,GM-CS_USA-Field-NorthEast_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/NOVA,Northern-Virginia,Northern Virginia,Northern Virginia,GM-CS USA-Field-MidAtlantic-NOVA,USA-Field-MidAtlantic-NOVA_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/Oakland,Oakland,Oakland,Oakland,GM-CS USA-Field-PacificNorth-Oakland,USA-Field-PacificNorth-Oakland_AllUsers,GM-USA
+/sites/OCFAO/FrontOffice,OCFAO-Front-Office,OCFAO Front Office,OCFAO Front Office,OCFAO-FrontOffice,OCFAO-FrontOffice_AllUsers,OCFAO
+/sites/GM/AdminServices,Office-of-Administrative-Services,Office of Administrative Services,Office of Administrative Services,GM-CS DDG-HQ-AdminServices,DDG-HQ-AdminServices_AllUsers,GM
+/sites/IA/OACIO,Office-of-Advisory-Committees-and-Industry-Outreach,Office of Advisory Committees & Industry Outreach,Office of Advisory Committees & Industry Outreach,IA OACIO,IA_OACIO_AllUsers,IA
+/sites/GM/MEA/Africa,Office-of-Africa,Office of Africa,Office of Africa,GM CS MEA-HQ-Africa,GM CS MEA-HQ-Africa_Allusers,GM
+/sites/GM/MEA/North/Africa,Office-of-Africa,Office of Africa,"Office of Africa, North",GM-CS MEA-Field-NorthAfrica,GM-CS_MEA-Field-NorthAfrica_AllUsers,GM-International
+/sites/GM/Asia,Asia-HQ,Office of Asia,Office of Asia,GM CS-Asia HQ,Asia-HQ_Allusers,GM
+/sites/IA/OAS,IandA-Office-of-Assistant-Secretary,Office of Assistant Secretary for Industry & Analysis,Office of Assistant Secretary for Industry & Analysis,IA OAS,IA_OAS_AllUsers,IA
+/sites/GM/Budget,GM-Office-of-Budget,Office of Budget,Office of Budget,GM-CS DDG-HQ-Budget,DDG-HQ-Budget_AllUsers,GM
+/sites/GM/China,China-DAS,Office of China,Office of China,GM-CS China-HQ-DAS-Office,China-HQ-DAS-Office_AllUsers,GM
+/sites/GM/China/OfficeOfChinaAndMongolia,Office-of-China-and-Mongolia,Office of China and Mongolia,Office of China and Mongolia,GM-CS China-HQ-Office-of-China-and-Mongolia,GM-CS_China-HQ-Office-of-China-and-Mongolia_AllUsers,GM
+/sites/IA/TCGM/OCG,Office-of-Consumer-Goods,Office of Consumer Goods,Office of Consumer Goods,IA TCGM-OCG,IA_TDGM-OCG_AllUsers,IA
+/sites/GM/CDI,Office-of-Digital-Initiatives,Office of Digital Initiatives,Office of Digital Initiatives,GM-CS DDG-HQ-ODI,DDG-HQ-CDI_AllUsers,GM
+/sites/IA/SVCS/ODSI,Office-of-Digital-Service-Industries,Office of Digital Service Industries,Office of Digital Service Industries,IA SVCS-ODSI,IA_SVCS-ODSI_AllUsers,IA
+/sites/OCFAO/CFAO-DCFAO,OCFAO-Office-of-Director,Office of Director-CFAO and DCFAO,Office of Director-CFAO and DCFAO,OCFAO-CFAO-and-DCFAO,OCFAO-and-DCFAO_AllUsers,OCFAO
+/sites/IA/MFG/OEEI,Office-of-Energy-and-Environmental-Industries,Office of Energy & Environmental Industries,Office of Energy & Environmental Industries,IA MFG-OEEI,IA_MFG-OEEI_AllUsers,IA
+/sites/GM/EUR/EURASIA,Office-of-Eurasia,Office of Eurasia,Office of Eurasia,GM CS EUR-Field-EURASIA,GM-CS_EUR-Field-EURASIA_AllUsers,GM-International
+/sites/GM/EUR/Europe,Office-of-European-Affairs,Office of European Affairs,Office of European Affairs,GM CS EUR-HQ-Europe,GM CS EUR-HQ-Europe_AllUsers,GM
+/sites/GM/EUR/HQ/EuropeanUnion,Office-of-European-Union,Office of European Union,Office of European Union,GM-CS EUR-Field-Belgium-USEU,GM-CS_EUR-Field-Belgium-USEU_AllUsers,GM
+/sites/IA/SVCS/OFI,Office-of-Finance-Insurance-Industries,Office of Finance & Insurance Industries,Office of Finance & Insurance Industries,IA SVCS-OFI,IA_SVCS-OFI_AllUsers,IA
+/sites/GM/MEA/Gulf,Office-of-Gulf,Office of Gulf,Office of Gulf,GM-CS MEA-Field-Gulf,GM-CS_MEA-Field-Gulf_AllUsers,GM-International
+/sites/IA/MFG/OHIT,Office-of-Health-and-Information-Technology,Office of Health & Information Technology,Office of Health & Information Technology,IA MFG-OHIT,IA_MFG-OHIT_AllUsers,IA
+/sites/GM/OFSHC,Office-of-Human-Capital-OFSHC,Office of Human Capital (OFSHC),Office of Human Capital (OFSHC),GM-CS DDG-HQ-OFSHC,GM-CS_DDG-HQ-OFSHC_AllUsers,GM
+/sites/IA/TPA/OIPR,Office-of-Intellectual-Property-Rights,Office of Intellectual Property Rights,Office of Intellectual Property Rights,IA TPA-OIPR,IA_TPA-OIPR_AllUsers,IA
+/sites/IA/TCGM/OM,Office-of-Materials,Office of Materials,Office of Materials,IA TCGM-OM,IA_TDGM-OM_AllUsers,IA
+/sites/IA/OPCM,Office-of-Planning-Coordination-and-Management,"Office of Planning, Coordination & Management","Office of Planning, Coordination & Management",IA OPCM,IA_OPCM_AllUsers,IA
+/sites/OUS/OPA,Office-of-Public-Affairs,Office of Public Affairs,Office of Public Affairs,OUS- OPA,OUS_OPA _AllUsers,OUS
+/sites/GM/EUR/HQ/RussiaUkraineAndEurasia,Office-of-Russia-Ukraine-and-Eurasia,"Office of Russia, Ukraine and Eurasia","Office of Russia, Ukraine and Eurasia",GM-CS EUR-HQ-Russia-Ukraine-and-Eurasia,GM-CS-EUR-HQ-Russia-Ukraine-and-Eurasia_AllUsers,GM
+/sites/IA/TPA/OSIP,Office-of-Standards-and-Investment-Policy,Office of Standards & Investment Policy,Office of Standards & Investment Policy,IA TPA-OSIP,IA_TPA-OSIP_AllUsers,IA
+/sites/IA/TPPSP/SP,Office-of-Strategic-Partnerships,Office of Strategic Partnerships,Office of Strategic Partnerships,IA TPPSP-SP,IA_TPPSP-SP_AllUsers,IA
+/sites/GM/OSP,Office-of-Strategic-Planning,Office of Strategic Planning,Office of Strategic Planning,GM-CS DDG-HQ-OSP,DDG-HQ-OSP_AllUsers,GM
+/sites/IA/SVCS/OSCPBS,Office-of-Supply-Chain-Professional-and-Business-Services,"Office of Supply Chain, Professional & Business Services","Office of Supply Chain, Professional & Business Services",IA SVCS-OSCPBS,IA_SVCS-OSCPBS_AllUsers,IA
+/sites/IA/TCGM/OTEXA,Office-of-Textiles-and-Apparel,Office of Textiles & Apparel,Office of Textiles & Apparel,IA TCGM-OTEXA,IA_TCGM-OTEXA_AllUsers,IA
+/sites/EC/AS,EC-Office-of-the-Assistant-Secretary,Office of the Assistant Secretary for E&C,Office of the Assistant Secretary for E&C,EC OfficeAS,EC-AS_AllUsers,EC
+/sites/OCFAO,Office-of-the-Chief-Financial-and-Administrative-Officer,Office of the Chief Financial and Administrative Officer,Office of the Chief Financial and Administrative Officer,OCFAO,OCFAO-ALL _AllUsers,OCFAO
+/sites/OCIO,Office-of-the-Chief-Information-Officer,Office of the Chief Information Officer,Office of the Chief Information Officer,OCIO,OCIO_AllUser,OCIO
+/sites/OCIO/CIO,Office-of-CIO-and-Deputy-CIO,Office of the CIO and Deputy CIO,Office of the CIO and Deputy CIO,OCIO- CIO-DCIO,OCIO_CIO-DCIO_AllUsers,OCIO
+/sites/EC/DASADCVD,Office-of-the-DAS-for-ADCVD-Operations,Office of the DAS for ADCVD Operations,Office of the DAS for ADCVD Operations,EC OfficeDASADCVD,EC-DASADCVD_AllUsers,EC
+/sites/EC/DASPN,Office-of-the-DAS-for-Policy-and-Negotiations,Office of the DAS for Policy & Negotiations,Office of the DAS for Policy & Negotiations,EC OfficeDASPN,EC-DASPN-Office_AllUsers,EC
+/sites/EC/DAS,EC-Office-of-the-Deputy-Assistant-Secretary,Office of the Deputy Assistant Secretary for E&C,Office of the Deputy Assistant Secretary for E&C,EC OfficeDAS,EC-DAS_AllUsers,EC
+/sites/GM/DG,Office-of-the-Director-General,Office of the Director General,Office of the Director General,GM-CS DG-HQ-Office,DG-HQ_AllUsers,GM
+/sites/OUS/OLIA,Office-of-the-Legislative-and-Intergovernmental-Affairs,Office of the Legislative and Intergovernmental Affairs,Office of the Legislative and Intergovernmental Affairs,OUS- OLIA,OUS_OLIA_AllUsers,OUS
+/sites/GM/MEA/HQ/MiddleEast,Office-of-the-Middle-East,Office of the Middle East,Office of the Middle East,GM-CS_MEA-HQ-MiddleEast,GM-CS_MEA-HQ-MiddleEast_AllUsers,GM
+/sites/GM/DG/PDAS,Office-of-the-Principal-Deputy-Assistant-Secretary,Office of the Principal Deputy Assistant Secretary,Office of the Principal Deputy Assistant Secretary,GM-CS DDG-HQ-Office,DDG-HQ-Office_allusers,GM
+/sites/OUS,Office-of-the-Under-Secretary-for-International-Trade,Office of the Under Secretary for International Trade,Office of the Under Secretary for International Trade,OUS,OUS_ALL _AllUsers,OUS
+/sites/IA/TPA/OTEA,Office-of-Trade-and-Economic-Analysis,Office of Trade & Economic Analysis,Office of Trade & Economic Analysis,IA TPA-OTEA,IA_TPA-OTEA_AllUsers,IA
+/sites/IA/TPA/OTNA,Office-of-Trade-Negotiations-and-Analysis,Office of Trade Negotiations & Analysis,Office of Trade Negotiations & Analysis,IA TPA-OTNA,IA_TPA-OTNA_AllUsers,IA
+/sites/IA/TPPSP,Office-of-Trade-Promotion-Programs,Office of Trade Promotion Programs,Office of Trade Promotion Programs,IA TPPSP,IA_TPPSP_AllUsers,IA
+/sites/IA/MFG/OTM,Office-of-Transportation-and-Machinery,Office of Transportation & Machinery,Office of Transportation & Machinery,IA MFG-OTM,IA_MFG-OTM_AllUsers,IA
+/sites/OUS/OUS-DUS,Office-of-Under-Secretary-and-Deputy-Under-Secretary,Office of Under Secretary and Deputy Under Secretary,Office of Under Secretary and Deputy Under Secretary,OUS- OUS-and-DUS,OUS-and-DUS_AllUsers,OUS
+/sites/GM/USA/Southern/OklahomaCity,Oklahoma,Oklahoma,Oklahoma City,GM-CS USA-Field-Southern-OklahomaCity,USA-Field-Southern-OklahomaCity_AllUsers,GM-USA
+/sites/GM/USA/MidWest/Omaha,Omaha,Omaha,Omaha,GM-CS USA-Field-MidWest-Omaha,USA-Field-MidWest-Omaha_AllUsers,GM-USA
+/sites/GM/USA/PacificSouth/Ontario,Ontario,Ontario,Ontario,GM-CS USA-Field-PacificSouth-Ontario,USA-Field-PacificSouth-Ontario_AllUsers,GM-USA
+/sites/OCFAO/OrgEx,Organizational-Excellence-Division,Organizational Excellence Division,Organizational Excellence Division,OCFAO-OrgEx,OCFAO-OrgEx_AllUsers,OCFAO
+/sites/GM/USA/Southern/Orlando,Orlando,Orlando,Orlando,GM-CS USA-Field-Southern-Orlando,USA-Field-Southern-Orlando_AllUsers,GM-USA
+/sites/GM/Asia/Japan/OsakaKobe,Osaka-Kobe,Osaka Kobe,Osaka Kobe,GM-CS Asia-Field-Japan-OsakaKobe,Asia-Field-JapanOsakaKobe_AllUsers,GM-International
+/sites/GM/EUR/Nordics/Oslo,Norway,Norway,Oslo,GM-CS EMEA-Field-Nordics-Oslo,GM-CS_EUR-Field-Nordics-Oslo_AllUsers,GM-International
+/sites/OCIO/PD/OP,Other-Products,Other Products,Other Products,OCIO- PD-OP,OCIO_PD-OP_AllUsers,OCIO
+/sites/GM/WH/Canada/Ottawa,Ottawa,Ottawa,Ottawa,GM-CS WH-Field-Canada-Ottawa,WH-Field-CanadaOttawa_AllUsers,GM-International
+/sites/GM/USA/PacificNorth,Pacific-North-Network,Pacific North,Pacific North,GM-CS USA-Field-PacificNorth,GM-CS_USA-Field-PacificNorth_AllUsers,GM-USA
+/sites/GM/USA/PacificSouth,Pacific-South-Network,Pacific South,Pacific South,GM-CS USA-Field-PacificSouth,GM-CS_USA-Field-PacificSouth_AllUsers,GM-USA
+/sites/GM/Asia/Pakistan,Pakistan,Pakistan,Pakistan,GM-CS Asia-Field-Pakistan,GM-CS_Asia-Field-Pakistan_AllUsers,GM-International
+/sites/GM/WH/PanamaCity,Panama,Panama,Panama City,GM-CS WH-Field-ANDPAN-PanamaCity,WH-Field-ANDPAN-PanamaCity_AllUsers,GM-International
+/sites/GM/USA/MidWest/Peoria,Peoria,Peoria,Peoria,GM-CS USA-Field-MidWest-Peoria,USA-Field-MidWest-Peoria_AllUsers,GM-USA
+/sites/GM/Asia/Australia/Perth,Perth,Perth,Perth,GM-CS Asia-Field-ANZ-Australia-Perth,Asia-Field-ANZ-AustraliaPerth_AllUsers,GM-International
+/sites/GM/WH/Lima,Peru,Peru,Peru,GM-CS WH-Field-ANDPAN-Lima,WH-Field-ANDPAN-Lima_AllUsers,GM-International
+/sites/GM/USA/MidAtlantic/Philadelphia,Philadelphia,Philadelphia,Philadelphia,GM-CS USA-Field-MidAtlantic-Philadelphia,USA-Field-MidAtlantic-Philadelphia_AllUsers,GM-USA
+/sites/GM/USA/Southwest/Phoenix,Phoenix,Phoenix,Phoenix,GM-CS USA-Field-Southwest-Phoenix,USA-Field-Southwest-Phoenix_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Pittsburgh,Pittsburgh,Pittsburgh,Pittsburgh,GM-CS USA-Field-MidAtlantic-Pittsburgh,USA-Field-MidAtlantic-Pittsburgh_AllUsers,GM-USA
+/sites/GM/USA/GreatLakes/Pontiac,Pontiac,Pontiac,Pontiac,GM-CS USA-Field-GreatLakes-Pontiac,USA-Field-GreatLakes-Pontiac_AllUsers,GM-USA
+/sites/GM/USA/Northeast/Portland,Portland,Portland,"Portland, ME",GM-CS USA-Field-NorthEast-Portland,USA-Field-NorthEast-Portland_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/Portland,Portland,Portland,"Portland, OR",GM-CS USA-Field-PacificNorth-Portland,USA-Field-PacificNorth-Portland_AllUsers,GM-USA
+/sites/GM/USA/Northeast/Portsmouth,Portsmouth,Portsmouth,Portsmouth,GM-CS USA-Field-NorthEast-Portsmouth,USA-Field-NorthEast-Portsmouth_AllUsers,GM-USA
+/sites/GM/EUR/Prague,Czech-Republic,Czech Republic,Prague,GM-CS EUR-Field-PoCz-Prague,GM-CS-EUR-Field-PoCz-Prague_AllUsers,GM-International
+/sites/OCIO/PD/PSDP,Product-and-Service-Delivery-Platform,Product and Service Delivery Platform,Product and Service Delivery Platform,OCIO- PD-PSDP,OCIO_PD-PSDP_AllUsers,OCIO
+/sites/OCIO/PD,Product-Delivery,Product Delivery,Product Delivery,OCIO-PD,OCIO_PD_AllUsers,OCIO
+/sites/OCIO/PD/PS,Product-Support,Product Support,Product Support,OCIO- PD-PS,OCIO_PD-PS_AllUsers,OCIO
+/sites/IA/SVCS/OSCPBS/PSET,Professional-Services-and-Education-Team,Professional Services & Education Team,Professional Services & Education Team,IA SVCS-OSCPBS-PSET,IA_SVCS-OSCPBS-PSET_AllUsers,IA
+/sites/GM/USA/Northeast/Providence,Providence,Providence,Providence,GM-CS USA-Field-NorthEast-Providence,USA-Field-NorthEast-Providence_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Raleigh,Raleigh,Raleigh,Raleigh,GM-CS USA-Field-MidAtlantic-Raleigh,USA-Field-MidAtlantic-Raleigh_AllUsers,GM-USA
+/sites/GM/Asia/ASEAN/Rangoon,Burma,Burma,Rangoon,GM-CS Asia-Field-ASEAN-Rangoon,Asia-Field-ASEAN-Rangoon_AllUsers,GM-International
+/sites/GM/WH/Brazil/Recife,Recife,Recife,Recife,GM-CS WH-Field-Brazil-Recife,WH-Field-Brazil-Recife_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/Reno,Reno,Reno,Reno,GM-CS USA-Field-PacificSouth-Reno,USA-Field-PacificSouth-Reno_AllUsers,GM-USA
+/sites/GM/USA/MidAtlantic/Richmond,Richmond,Richmond,Richmond,GM-CS USA-Field-MidAtlantic-Richmond,USA-Field-MidAtlantic-Richmond_AllUsers,GM-USA
+/sites/GM/WH/Brazil/Rio,Rio-De-Janeiro,Rio De Janeiro,Rio De Janeiro,GM-CS WH-Field-Brazil-Rio,WH-Field-Brazil-Rio_AllUsers,GM-International
+/sites/GM/MEA/SaudiArabia/Riyadh,Riyadh,Riyadh,Riyadh,GM-CS MEA-Field-SaudiArabia-Riyadh,GM-CS_MEA-Field-SaudiArabia-Riyadh_AllUsers,GM-International
+/sites/GM/USA/Northeast/Rochester,Rochester,Rochester,Rochester,GM-CS USA-Field-NorthEast-Rochester,USA-Field-NorthEast-Rochester_AllUsers,GM-USA
+/sites/GM/USA/MidWest/Rockford,Rockford,Rockford,Rockford,GM-CS USA-Field-MidWest-Rockford,USA-Field-MidWest-Rockford_AllUsers,GM-USA
+/sites/GM/EUR/Italy/Rome,Rome,Rome,Rome,GM-CS EUR-Field-Italy-Rome,GM-CS_EUR-Field-Italy-Rome_AllUsers,GM-International
+/sites/GM/EUR/EURASIA/Russia,Russia,Russia,Russia,GM-CS EUR-Field-EURASIA-Russia,GM-CS_EUR-Field-EURASIA-Russia_AllUsers,GM-International
+/sites/GM/USA/PacificNorth/Sacramento,Sacramento,Sacramento,Sacramento,GM-CS USA-Field-PacificNorth-Sacramento,USA-Field-PacificNorth-Sacramento_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/SaltLakeCity,Salt-Lake-City,Salt Lake City,Salt Lake City,GM-CS USA-Field-PacificNorth-SaltLakeCity,USA-Field-PacificNorth-SaltLakeCity_AllUsers,GM-USA
+/sites/GM/USA/Southwest/SanAntonio,San-Antonio,San Antonio,San Antonio,GM-CS USA-Field-Southwest-SanAntonio,USA-Field-Southwest-SanAntonio_AllUsers,GM-USA
+/sites/GM/USA/PacificSouth/SanDiego,San-Diego,San Diego,San Diego,GM-CS USA-Field-PacificSouth-SanDiego,USA-Field-PacificSouth-SanDiego_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/SanFrancisco,San-Francisco,San Francisco,San Francisco,GM-CS USA-Field-PacificNorth-SanFrancisco,USA-Field-PacificNorth-SanFrancisco_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/SanJose,San-Jose,San Jose,San Jose,GM-CS USA-Field-PacificNorth-SanJose,USA-Field-PacificNorth-SanJose_AllUsers,GM-USA
+/sites/GM/USA/Southern/SanJuan,San-Juan-Puerto-Rico,San Juan Puerto Rico,San Juan Puerto Rico,GM-CS USA-Field-Southern-SanJuan,USA-Field-Southern-SanJuan_AllUsers,GM-USA
+/sites/GM/WH/Santiago,Chile,Chile,Santiago,GM-CS WH-Field-Santiago,WH-Field-Santiago_AllUsers,GM-International
+/sites/GM/WH/Brazil/SaoPaulo,Sao-Paulo,Sao Paulo,Sao Paulo,GM-CS WH-Field-Brazil-SaoPaulo,WH-Field-Brazil-SaoPaulo_AllUsers,GM-International
+/sites/GM/MEA/SaudiArabia,Saudi-Arabia,Saudi Arabia,Saudi Arabia,GM-CS MEA-Field-SaudiArabia,GM-CS_MEA-Field-SaudiArabia_AllUsers,GM-International
+/sites/GM/USA/Southern/Savannah,Savannah,Savannah,Savannah,GM-CS USA-Field-Southern-Savannah,USA-Field-Southern-Savannah_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/Seattle,Seattle,Seattle,Seattle,GM-CS USA-Field-PacificNorth-Seattle,USA-Field-PacificNorth-Seattle_AllUsers,GM-USA
+/sites/GM/SelectUSA,Select-USA,SelectUSA,SelectUSA,GM-CS SelectUSA-HQ,GM-CS_SelectUSA_AllUsers,GM
+/sites/IA/SVCS,Services,Services,Services,IA SVCS,IA_SVCS_AllUsers,IA
+/sites/GM/China/Shanghai,Shanghai,Shanghai,Shanghai,GM-CS China-Field-China-Shanghai,China-Field China-Shanghai_AllUsers,GM-International
+/sites/GM/China/Shenyang,Shenyang,Shenyang,Shenyang,GM-CS China-Field-China-Shenyang,China-Field China-Shenyang_AllUsers,GM-International
+/sites/GM/Asia/ASEAN/Singapore,Singapore,Singapore,Singapore,GM-CS Asia-Field-ASEAN-Singapore,Asia-Field-ASEAN-Singapore_AllUsers,GM-International
+/sites/GM/USA/MidWest/SiouxFalls,Sioux-Falls,Sioux Falls,Sioux Falls,GM-CS USA-Field-MidWest-SiouxFalls,USA-Field-MidWest-SiouxFalls_AllUsers,GM-USA
+/sites/GM/EUR/Sofia,Bulgaria,Bulgaria,Sofia,GM-CS EUR-Field-RSCO-Bucharest,GM-CS_EUR-Field-Balkans-Sofia_AllUsers,GM-International
+/sites/GM/MEA/Africa/SouthAfrica,South-Africa,South Africa,South Africa,GM-CS MEA-Field-Africa-SouthAfrica,GM-CS_MEA-Field-Africa-SouthAfrica_AllUsers,GM-International
+/sites/GM/Asia/SouthAsia,South-Asia,South Asia,South Asia,GM-CS Asia-HQ-SouthAsia,GM-CS_Asia-HQ-SouthAsia_AllUsers,GM
+/sites/GM/USA/Southern,Southern-Network,Southern Network,Southern Network,GM-CS USA-Field-Southern,GM-CS_USA-Field-Southern_AllUsers,GM-USA
+/sites/GM/USA/Southwest,Southwest-Network,Southwest,Southwest,GM-CS USA-Field-Southwest,GM-CS_USA-Field-Southwest_AllUsers,GM-USA
+/sites/GM/USA/PacificNorth/Spokane,Spokane,Spokane,Spokane,GM-CS USA-Field-PacificNorth-Spokane,USA-Field-PacificNorth-Spokane_AllUsers,GM-USA
+/sites/GM/USA/MidWest/StLouis,St-Louis,St. Louis,St. Louis,GM-CS USA-Field-MidWest-StLouis,USA-Field-MidWest-StLouis_AllUsers,GM-USA
+/sites/GM/EUR/EURASIA/Russia/StPetersburg,St-Petersburg,St. Petersburg,St. Petersburg,GM-CS EUR-Field-EURASIA-Russia-StPetersburg,GM-CS-EUR-Field-EURASIA-Russia-StPetersburg_AllUsers,GM-International
+/sites/IA/TPA/OSIP/STAN,Standards-Team,Standards Team,Standards Team,IA TPA-OSIP-STAN,IA_TPA-OSIP-STAN_AllUsers,IA
+/sites/GM/EUR/Nordics/Stockholm,Sweden,Sweden,Stockholm,GM-CS EMEA-Field-Nordics-Stockholm,GM-CS_EUR-Field-Nordics-Stockholm_AllUsers,GM-International
+/sites/OCIO/ASD/S,ASD-Strategy,Strategy,Strategy,OCIO- ASD-S,OCIO_ASD-S_AllUsers,OCIO
+/sites/IA/SVCS/OSCPBS/SCT,Supply-Chain-Team,Supply Chain Team,Supply Chain Team,IA SVCS-OSCPBS-SCT,IA_SVCS-OSCPBS-SCT_AllUsers,IA
+/sites/GM/Asia/Australia/Sydney,Sydney,Sydney,Sydney,GM-CS Asia-Field-ANZ-Australia-Sydney,Asia-Field-ANZ-AustraliaSydney_AllUsers,GM-International
+/sites/OCIO/SO,System-Operations,System Operations,System Operations,OCIO- SO,OCIO_SO_AllUsers,OCIO
+/sites/GM/Asia/Taiwan/Taipei,Taipei,Taipei,Taipei,GM-CS Asia-Field-Taiwan-Taipei,Asia-Field-TaiwanKaohsiung_AllUsers,GM-International
+/sites/GM/Asia/Taiwan,Taiwan,Taiwan,Taiwan,GM-CS Asia-Field-Taiwan,GM-CS_Asia-Field-Taiwan_AllUsers,GM-International
+/sites/GM/USA/Southern/Tallahassee,Tallahassee,Tallahassee,Tallahassee,GM-CS USA-Field-Southern-Tallahassee,USA-Field-Southern-Tallahassee_AllUsers,GM-USA
+/sites/OCIO/ASD/TAS,Technical-Architecture-and-Standards,Technical Architecture and Standards,Technical Architecture and Standards,OCIO- ASD-TAS,OCIO_ASD-TAS_AllUsers,OCIO
+/sites/GM/WH/CAFTA/Tegucigalpa,Honduras,Honduras,Tegucigalpa,GM-CS WH-Field-CAFTA-Tegucigalpa,WH-Field-CAFTA-Tegucigalpa_AllUsers,GM-International
+/sites/GM/MEA/Israel/TelAviv,Tel-Aviv,Tel Aviv,Tel Aviv,GM-CS MEA-Field-Israel-TelAviv,GM-CS_MEA-Field-Israel-TelAviv_AllUsers,GM-International
+/sites/IA/TCGM,Textiles-Consumer-Goods-and-Materials,"Textiles, Consumer Goods & Materials","Textiles, Consumer Goods & Materials",IA TCGM,IA_TCGM_AllUsers,IA
+/sites/GM/EUR/TheHague,Netherlands,Netherlands,The Hague,GM-CS EUR-Field-Benelux-TheHague,GM-CS_EUR-Field-Benelux-TheHague_AllUsers,GM-International
+/sites/GM/Asia/Japan/Tokyo,Tokyo,Tokyo,Tokyo,GM-CS Asia-Field-Japan-Tokyo,Asia-Field-JapanTokyo_AllUsers,GM-International
+/sites/GM/WH/Canada/Toronto,Toronto,Toronto,Toronto,GM-CS WH-Field-Canada-Toronto,WH-Field-CanadaToronto_AllUsers,GM-International
+/sites/IA/SVCS/OFI/TPFT,Trade-Project-Finance-Team,Trade & Project Finance Team,Trade & Project Finance Team,IA SVCS-OFI-TPFT,IA_SVCS-OFI-TPFT_AllUsers,IA
+/sites/IA/TAS,Trade-Agreements-Secretariat,Trade Agreements Secretariat,Trade Agreements Secretariat,IA TAS,IA_TAS_AllUsers,IA
+/sites/IA/TPPSP/TMP,Trade-Missions-Program,Trade Missions Program,Trade Missions Program,IA TPPSP-TMP,IA_TPPSP-TMP_AllUsers,IA
+/sites/IA/TPA,Trade-Policy-and-Analysis,Trade Policy & Analysis,Trade Policy & Analysis,IA TPA,IA_TPA_AllUsers,IA
+/sites/OUS/TPCC,Trade-Promotion-Coordinating-Committee,Trade Promotion Coordinating Committee,Trade Promotion Coordinating Committee,OUS- TPCC,OUS_TPCC_AllUsers,OUS
+/sites/IA/TPPSP/TSM,Trade-Show-Management,Trade Show Management,Trade Show Management,IA TPPSP-TSM,IA_TPPSP-TSM_AllUsers,IA
+/sites/GM/USA/MidAtlantic/Trenton,Trenton,Trenton,Trenton,GM-CS USA-Field-MidAtlantic-Trenton,USA-Field-MidAtlantic-Trenton_AllUsers,GM-USA
+/sites/GM/USA/Southern/Tulsa,Tulsa,Tulsa,Tulsa,GM-CS USA-Field-Southern-Tulsa,USA-Field-Southern-Tulsa_AllUsers,GM-USA
+/sites/GM/EUR/Turkey,Turkey,Turkey,Turkey,GM-CS EUR-Field-Turkey,GM-CS_EUR-Field-Turkey_AllUsers,GM-International
+/sites/GM/USA/Southwest/Tuscon,Tuscon,Tuscon,Tuscon,GM-CS USA-Field-Southwest-Tucson,USA-Field-Southwest-Tucson _AllUsers,GM-USA
+/sites/GM/USA,US-Operations,U.S. Field,U.S. Field,GM-CS_USA_HQ,GM-CS_USA_AllUsers,GM
+/sites/GM/MEA/Gulf/UAE,United-Arab-Emirates,United Arab Emirates,United Arab Emirates,GM-CS MEA-Field-Gulf-UAE,GM-CS_MEA-Field-Gulf-UAE_AllUsers,GM-International
+/sites/GM/EUR/UK,United-Kingdom,United Kingdom,United Kingdom,GM-CS EUR-Field-UK,GM-CS_EUR-Field-UK_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/Ventura,Ventura,Ventura,Ventura,GM-CS USA-Field-PacificSouth-Ventura,USA-Field-PacificSouth-Ventura_AllUsers,GM-USA
+/sites/GM/Asia/ASEAN/Vietnam,Vietnam,Vietnam,Vietnam,GM-CS Asia-Field-ASEAN-Vietnam,GM-CS_Asia-Field-ASEAN-Vietnam_AllUsers,GM-International
+/sites/GM/EUR/Warsaw,Poland,Poland,Warsaw,GM-CS EUR-Field-PoCz-Warsaw,GM-CS-EUR-Field-PoCz-Warsaw_AllUsers,GM-International
+/sites/GM/Asia/NewZealand/Wellington,Wellington,Wellington,Wellington,GM-CS Asia-Field-ANZ-NewZealand-Wellington,Asia-Field ANZ-NewZealand-Wellington_AllUsers,GM-International
+/sites/GM/USA/PacificSouth/WestLosAngeles,West-Los-Angeles,West Los Angeles,West Los Angeles,GM-CS USA-Field-PacificSouth-WestLosAngeles,USA-Field-PacificSouth-WestLosAngeles_AllUsers,GM-USA
+/sites/GM/USA/Northeast/Westchester,Westchester,Westchester,Westchester,GM-CS USA-Field-NorthEast-Westchester,USA-Field-NorthEast-Westchester_AllUsers,GM-USA
+/sites/GM/WH/DAS,Western-Hemisphere-DAS,Western Hemisphere DAS,Western Hemisphere DAS,GM CS-WH-HQ DAS Office,WH-HQ-DAS-Office_AllUsers,GM
+/sites/GM/WH/HQ,Western-Hemisphere-HQ,Western Hemisphere HQ,Western Hemisphere HQ,GM CS-WH HQ,GM-CS_WH-HQ_AllUsers,GM
+/sites/GM/WH,Western-Hemisphere-Operations,Western Hemisphere Operations,Western Hemisphere Operations,GM-CS_WH-HQ,GM-CS_WH_AllUsers,GM
+/sites/GM/USA/MidAtlantic/Wheeling,Wheeling,Wheeling,Wheeling,GM-CS USA-Field-MidAtlantic-Wheeling,USA-Field-MidAtlantic-Wheeling_AllUsers,GM-USA
+/sites/GM/USA/MidWest/Wichita,Wichita,Wichita,Wichita,GM-CS USA-Field-MidWest-Wichita,USA-Field-MidWest-Wichita_AllUsers,GM-USA
+/sites/GM/Advocacy/WorldBank,World-Bank,World Bank,World Bank,GM-CS Advocacy-Field-World-Bank,GM-CS_Advocacy-Field-World-Bank_AllUsers,GM
+/sites/GM/China/Wuhan,Wuhan,Wuhan,Wuhan,GM-CS China-Field-China-Wuhan,China-Field China-Wuhan_AllUsers,GM-International
+/sites/GM/EUR/Zagreb,Croatia,Croatia,Zagreb,GM-CS EUR-Field-Balkans-Zagreb,GM-CS_EUR-Field-Balkans-Zagreb_AllUsers,GM-International
